@@ -174,7 +174,7 @@ $('#submit').on('click', function () {
                        <center><b>`+final[0]+`</b></center>
                     <p><blockquote>
                          `+final[1]+`
-                    </blockquote><p></p><br/></p>
+                    </blockquote><p></p><br/><span class="text" style="font-size: 0.7em" align="right"><a href="https://www.panjinawangkung.com">panjinawaangkung.com</a></span></p>
                 </div>
             </div>
         </div>
