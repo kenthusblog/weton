@@ -162,7 +162,7 @@ $('#submit').on('click', function () {
             <div class="row">
                 <div class="col-11">Nama Kamu : `+nama1+`</div>
                 <tr><div class=col-4>Tanggal Lahir : `+layla[0][0]+` `+layla[0][1]+` `+layla[0][2]+`</div></tr>
-                <div class=col-4>Pasaran : `+layla[1]+ ` `+layla[2]+`    </div>
+                <div class=col-4>Pasaran : `+layla[1]+ ` `+layla[2]+`   ( `+layla[3]+` ) </div>
             </div>    
             <div class="row mt-2">
                 <div class="col-12">Pasangan Kamu : `+nama2+`</div>
@@ -174,7 +174,7 @@ $('#submit').on('click', function () {
                     <b>`+final[0]+`</b>
                     <p>
                         &nbsp &nbsp &nbsp `+final[1]+`
-                    <br></p>
+                    <p></p></p>
                 </div>
             </div>
         </div>
