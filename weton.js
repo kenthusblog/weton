@@ -147,6 +147,8 @@ $('#submit').on('click', function () {
 
     var majnun = Hitung(tanggal2);
     
+    var neptu = xmasehi[3]+xpasaran[3];
+	
     var total = layla[3]+majnun[3];
     var final = weton(total)
 
@@ -160,7 +162,7 @@ $('#submit').on('click', function () {
             <div class="row">
                 <div class="col-11">Nama Kamu : `+nama1+`</div>
                 <tr><div class=col-4>Tanggal Lahir : `+layla[0][0]+` `+layla[0][1]+` `+layla[0][2]+`</div></tr>
-                <div class=col-4>Pasaran : `+layla[1]+ ` `+layla[2]+`</div>
+                <div class=col-4>Pasaran : `+layla[1]+ ` `+layla[2]+`   (`+layla[0]+ ` `+layla[0]+`) </div>
             </div>    
             <div class="row mt-2">
                 <div class="col-12">Pasangan Kamu : `+nama2+`</div>
