@@ -108,7 +108,7 @@ $('#submit').on('click', function () {
      var nama = $("#inputNama1").val().length;
      var nama2 = $("#inputNama2").val().length;
      if (nama == 0) {			
-         document.getElementById('nama-alert').innerHTML = "Nama tidak boleh kosong, hehe :)";
+         document.getElementById('nama-alert').innerHTML = "Nama tidak boleh kosong :)";
          //return false;
      }else{
          document.getElementById('nama-alert').innerHTML = "";
