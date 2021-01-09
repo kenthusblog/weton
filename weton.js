@@ -160,7 +160,7 @@ $('#submit').on('click', function () {
             </div>    
             <div class="row mt-2">
                 <div class="col-12">`+nama2+`</div>
-                <div class=col-4>Tanggal </div> <div class=col-8>: `+majnun[0][0]+` `+majnun[0][1]+` `+majnun[0][2]+`</div>
+                <div class=col-4>Tanggal Lahir : `+majnun[0][0]+` `+majnun[0][1]+` `+majnun[0][2]+`</div>
                 <div class=col-4>Pasaran </div> <div class=col-6>: `+majnun[1]+ ` `+majnun[2]+`</div>
             </div>    
             <div class="row mt-3">
