@@ -171,7 +171,7 @@ $('#submit').on('click', function () {
             </div>    
             <div class="row mt-3">
                 <div class="col-12 hasil" id="hasil" style="background-color: #`+final[2]+`;">
-                    <b>`+final[0]+`</b>
+                       <b>`+final[0]+`</b>
                     <p><blockquote>
                         &nbsp &nbsp &nbsp `+final[1]+`
                     </blockquote><p></p><br/></p>
