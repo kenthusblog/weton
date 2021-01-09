@@ -114,7 +114,7 @@ $('#submit').on('click', function () {
          document.getElementById('nama-alert').innerHTML = "";
      }
      if (nama2 == 0) {			
-         document.getElementById('nama2-alert').innerHTML = "Waduh pasanganmu kok kosong?";
+         document.getElementById('nama2-alert').innerHTML = "Waduh Pasanganmu kok kosong?";
          //return false;
      }else{
          document.getElementById('nama2-alert').innerHTML = "";
@@ -155,7 +155,7 @@ $('#submit').on('click', function () {
         <div class="card-body">
             <div class="row">
                 <div class="col-11">`+nama1+`</div>
-                <div class=col-4>Tanggal </div> <div class=col-8>: `+layla[0][0]+` `+layla[0][1]+` `+layla[0][2]+`</div>
+                <div class=col-4>Tanggal Lahir : `+layla[0][0]+` `+layla[0][1]+` `+layla[0][2]+`</div>
                 <div class=col-4>Pasaran </div> <div class=col-6>: `+layla[1]+ ` `+layla[2]+`</div>
             </div>    
             <div class="row mt-2">
