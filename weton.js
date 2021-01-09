@@ -174,7 +174,7 @@ $('#submit').on('click', function () {
                     <b>`+final[0]+`</b>
                     <p>
                         &nbsp &nbsp &nbsp `+final[1]+`
-                    </p>
+                    <br></p>
                 </div>
             </div>
         </div>
