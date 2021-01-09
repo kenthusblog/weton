@@ -168,10 +168,10 @@ $('#submit').on('click', function () {
                 <div class="col-12">Pasangan Kamu : <b>`+nama2+`</b></div>
                 <div class=col-4>Tanggal Lahir : `+majnun[0][0]+` `+majnun[0][1]+` `+majnun[0][2]+`</div>
                 <div class=col-4>Pasaran : `+majnun[1]+ ` `+majnun[2]+` (`+majnun[3]+`)</div>
-            </div>    
-            <div class="row mt-3">
+            </div><br>    
+            <div class="row mt-3">&nbsp &nbsp &nbsp
                 <div class="col-12 hasil" id="hasil" style="background-color: #`+final[2]+`;">
-                       &nbsp &nbsp &nbsp<b>`+final[0]+`</b>
+                       <center><b>`+final[0]+`</b></center>
                     <p><blockquote>
                          `+final[1]+`
                     </blockquote><p></p><br/></p>
