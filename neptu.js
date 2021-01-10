@@ -135,7 +135,7 @@ $('#submit').on('click', function () {
         }else{
             document.getElementById('tanggal2-alert').innerHTML = "";
         }
-   $("#result").html("");
+   $("#resultneptu").html("");
 
     var nama1 = $('#inputNama1').val();
     var nama2 = $('#inputNama2').val();	
