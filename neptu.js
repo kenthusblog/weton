@@ -152,7 +152,7 @@ $('#submit').on('click', function () {
     var total = layla[3]+majnun[3];
     var final = weton(total)
 
-    $("#result").append(`                    
+    $("#resultneptu").append(`                    
     
 
 <div class="card"><div class="container">
