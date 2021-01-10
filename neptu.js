@@ -1,4 +1,4 @@
-function ya(x){
+function Hitung(x){
     var explode =x.split("-");
     
         // Menampilkan tanggal, bulan, tahun
@@ -102,7 +102,7 @@ function weton(x){
 
 
 $('#submit').on('click', function () {
-    $("#result").html("");
+    $("#resultneptu").html("");
 
      //validasi nama
      var nama = $("#inputNama1").val().length;
