@@ -1,4 +1,4 @@
-function Hitung(x){
+function ya(x){
     var explode =x.split("-");
     
         // Menampilkan tanggal, bulan, tahun
