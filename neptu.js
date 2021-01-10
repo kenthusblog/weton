@@ -147,7 +147,7 @@ $('#submit').on('click', function () {
 
     var majnun = Hitung(tanggal2);
     
-    var total = layla[3]+majnun[3];
+    var total = layla[3];
     var final = weton(total)
 
     $("#result").append(`                    
@@ -158,11 +158,7 @@ $('#submit').on('click', function () {
                 <div class=col-4>Tanggal </div> <div class=col-8>: `+layla[0][0]+` `+layla[0][1]+` `+layla[0][2]+`</div>
                 <div class=col-4>Pasaran </div> <div class=col-6>: `+layla[1]+ ` `+layla[2]+`</div>
             </div>    
-            <div class="row mt-2">
-                <div class="col-12">`+nama2+`</div>
-                <div class=col-4>Tanggal </div> <div class=col-8>: `+majnun[0][0]+` `+majnun[0][1]+` `+majnun[0][2]+`</div>
-                <div class=col-4>Pasaran </div> <div class=col-6>: `+majnun[1]+ ` `+majnun[2]+`</div>
-            </div>    
+               
             <div class="row mt-3">
                 <div class="col-12 hasil" id="hasil" style="background-color: #`+final[2]+`;">
                     <b>`+final[0]+`</b>
