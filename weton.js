@@ -154,13 +154,11 @@ $('#submit').on('click', function () {
 
     $("#result").append(`                    
     
-<div class="table">
-  <table>
-    <thead>
+
 <div class="card">
-        <div class="card-body"><tbody>
+        <div class="card-body">
             <div class="row">
-                <div class="table">Nama Kamu : <b>`+nama1+`</b></div>
+                <div class="col-12">Nama Kamu : <b>`+nama1+`</b></div>
                 <div class=col-4>Tanggal Lahir : `+layla[0][0]+` `+layla[0][1]+` `+layla[0][2]+`</div>
                 <div class=col-4>Pasaran : `+layla[1]+ ` `+layla[2]+`   </div>
                 <div class=col-4>Neptu Weton : `+layla[3]+`  </div>
@@ -172,7 +170,7 @@ $('#submit').on('click', function () {
                 <div class=col-4>Pasaran : `+majnun[1]+ ` `+majnun[2]+` </div>
                 <div class=col-4>Neptu Weton : `+majnun[3]+`  </div>
 
-</tbody>
+
 </div><br>    
             <div class="row mt-3">&nbsp &nbsp &nbsp
                 <div class="col-12 hasil" id="hasil" style="background-color: #`+final[2]+`;">
@@ -184,9 +182,7 @@ $('#submit').on('click', function () {
             </div>
         </div>
     </div>
-    </tbody>
-  </table>
-</div>
+    
                      `);
                      
     $('#myModal').modal('show');
