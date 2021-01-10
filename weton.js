@@ -165,7 +165,7 @@ $('#submit').on('click', function () {
                 <div class=col-4>Pasaran : `+layla[1]+ ` `+layla[2]+`   ( `+layla[3]+` ) </div>
             </div>    
             <div class="row mt-2">
-                <div class="col-12">Pasangan Kamu : <b>`+nama2+`</b></div>
+                <div class="col-12"><tr>Pasangan Kamu : <b>`+nama2+`</b></tr></div>
                 <div class=col-4>Tanggal Lahir : `+majnun[0][0]+` `+majnun[0][1]+` `+majnun[0][2]+`</div>
                 <div class=col-4>Pasaran : `+majnun[1]+ ` `+majnun[2]+` (`+majnun[3]+`)</div>
             </div><br>    
@@ -174,7 +174,7 @@ $('#submit').on('click', function () {
                        <center><b>`+final[0]+`</b></center>
                     <p><blockquote>
                          `+final[1]+`
-                    </blockquote><p></p><br/><span class="text" style="font-size: 0.7em" align="right"><a href="https://www.panjinawangkung.com">panjinawaangkung.com</a></span></p>
+                    </blockquote></p><br/><span class="text" style="font-size: 0.7em" align="right"><a href="https://www.panjinawangkung.com">panjinawaangkung.com</a></span>
                 </div>
             </div>
         </div>
