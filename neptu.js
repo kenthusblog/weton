@@ -167,16 +167,7 @@ $('#submit').on('click', function () {
 
 </div>
 </div><br>    
-            <div class="row mt-3">&nbsp &nbsp &nbsp
-                <div class="col-12 hasil" id="hasil" style="background-color: #`+final[2]+`;">
-                       <center><br><b>`+final[0]+`</b></center>
-                    <p><blockquote>
-                         `+final[1]+`
-                    </blockquote></p><span class="text" style="font-size: 0.7em"><a href="https://www.panjinawangkung.com">panjinawangkung.com</a></span>
-                </div>
-            </div>
-        </div>
-    </div>
+          
     
                      `);
                      
