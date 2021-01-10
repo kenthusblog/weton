@@ -180,7 +180,7 @@ $('#submit').on('click', function () {
     
                      `);
                      
-    $('#myModal').modal('show');
+    $('#cek').modal('show');
    
 
 })
