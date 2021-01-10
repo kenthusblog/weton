@@ -175,7 +175,7 @@ $('#submit').on('click', function () {
                 <div class="col-12 hasil" id="hasil" style="background-color: #`+final[2]+`;">
                        <center><br><strong>`+final[0]+`</strong> </center>
 
- `layla[3]`
+ `layla[1]+majnun[1]`
                     <p><blockquote>
                          `+final[1]+`
                     </blockquote></p><span class="text" style="font-size: 0.7em"><a href="https://www.panjinawangkung.com">panjinawangkung.com</a></span>
