@@ -161,14 +161,19 @@ $('#submit').on('click', function () {
         <div class="card-body">
             <div class="row">
                 <div class="table">Nama Kamu : <b>`+nama1+`</b></div>
-                <tr><div class=col-4>Tanggal Lahir : `+layla[0][0]+` `+layla[0][1]+` `+layla[0][2]+`</div></tr>
-                <div class=col-4>Pasaran : `+layla[1]+ ` `+layla[2]+`   ( `+layla[3]+` ) </div>
+                <div class=col-4>Tanggal Lahir : `+layla[0][0]+` `+layla[0][1]+` `+layla[0][2]+`</div>
+                <div class=col-4>Pasaran : `+layla[1]+ ` `+layla[2]+`   </div>
+                <div class=col-4>Neptu Wetonnya : `+layla[3]+`  </div>
+
             </div>    
             <div class="row mt-2">
                 <div class="col-12"><tr>Pasangan Kamu : <b>`+nama2+`</b></tr></div>
                 <div class=col-4>Tanggal Lahir : `+majnun[0][0]+` `+majnun[0][1]+` `+majnun[0][2]+`</div>
-                <div class=col-4>Pasaran : `+majnun[1]+ ` `+majnun[2]+` (`+majnun[3]+`)</div>
-            </div><br>    
+                <div class=col-4>Pasaran : `+majnun[1]+ ` `+majnun[2]+` </div>
+                <div class=col-4>Neptu Wetonnya : `+majnun[3]+`  </div>
+
+
+</div><br>    
             <div class="row mt-3">&nbsp &nbsp &nbsp
                 <div class="col-12 hasil" id="hasil" style="background-color: #`+final[2]+`;">
                        <center><br><b>`+final[0]+`</b></center>
