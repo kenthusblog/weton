@@ -158,7 +158,7 @@ $('#submit').on('click', function () {
 <div class="card"><div class="container">
         <div class="card-body">
             <div class="row">
-                <div class="col-12">Nama Kamu : <b>`+nama1+`</b></div>
+                <div class="col-12"><td>Nama Kamu : <b>`+nama1+`</b></td></div>
                 <div class=col-4>Tanggal Lahir : `+layla[0][0]+` `+layla[0][1]+` `+layla[0][2]+`</div>
                 <div class=col-4>Pasaran : `+layla[1]+ ` `+layla[2]+`   </div>
                 <div class=col-4>Neptu Weton : `+layla[3]+`  </div>
