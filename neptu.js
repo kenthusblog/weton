@@ -161,7 +161,7 @@ $('#submit').on('click', function () {
                 <div class="col-12"><td>Nama Kamu : <b>`+nama1+`</b></td></div>
                 <div class=col-4>Tanggal Lahir : `+layla[0][0]+` `+layla[0][1]+` `+layla[0][2]+`</div>
                 <div class=col-4>Pasaran : `+layla[1]+ ` `+layla[2]+`   </div>
-                <div class=col-4>Neptu Weton : `+layla[3]+`  </div>
+                <div class=col-4>Neptu : `+layla[3]+`  </div>
             </div><i class='separate'></i>    
             
 
