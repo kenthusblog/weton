@@ -155,7 +155,7 @@ $('#submit').on('click', function () {
     $("#result").append(`                    
     
 
-<div class="card">
+<div class="card"><div class="container">
         <div class="card-body">
             <div class="row">
                 <div class="col-12">Nama Kamu : <b>`+nama1+`</b></div>
@@ -170,7 +170,7 @@ $('#submit').on('click', function () {
                 <div class=col-4>Pasaran : `+majnun[1]+ ` `+majnun[2]+` </div>
                 <div class=col-4>Neptu Weton : `+majnun[3]+`  </div>
 
-
+</div>
 </div><br>    
             <div class="row mt-3">&nbsp &nbsp &nbsp
                 <div class="col-12 hasil" id="hasil" style="background-color: #`+final[2]+`;">
