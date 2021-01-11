@@ -158,21 +158,22 @@ $('#submit').on('click', function () {
 <div class='table'>
   <table style='white-space: nowrap;'>    <tbody>
                 <tr><td>Nama Kamu : <b>`+nama1+`</b></td>
-                <div class=col-4>Tanggal Lahir : `+layla[0][0]+` `+layla[0][1]+` `+layla[0][2]+`</div>
-                <div class=col-4>Pasaran : `+layla[1]+ ` `+layla[2]+`   </div>
-                <div class=col-4>Neptu  : `+layla[3]+`  </div>
-            </div></tr>
+                <td>Tanggal Lahir : `+layla[0][0]+` `+layla[0][1]+` `+layla[0][2]+`</td>
+                <td>Pasaran : `+layla[1]+ ` `+layla[2]+`   </td>
+                <td>Neptu  : `+layla[3]+`  </td>
+            </tr>
 
 <i class='separate'></i>    
-            <div class="row mt-2">
-                <div class="col-12">Pasangan Kamu : <b>`+nama2+`</b></div>
-                <div class=col-4>Tanggal Lahir : `+majnun[0][0]+` `+majnun[0][1]+` `+majnun[0][2]+`</div>
-                <div class=col-4>Pasaran : `+majnun[1]+ ` `+majnun[2]+` </div>
-                <div class=col-4>Neptu  : `+majnun[3]+`  </div>
+            <tr>
+                <td>Pasangan Kamu : <b>`+nama2+`</b></td>
+                <td>Tanggal Lahir : `+majnun[0][0]+` `+majnun[0][1]+` `+majnun[0][2]+`</td>
+                <td>Pasaran : `+majnun[1]+ ` `+majnun[2]+` </td>
+                <td>Neptu  : `+majnun[3]+`  </td>
+</tr>
 </tbody>
   </table>
 </div>
-</div><div class='menu'>Jadi <i>Neptu</i> Kalian <b>`+layla[3]+`</b> dan <b>`+majnun[3]+`</b> wetonnya  <b>`+total+`</b></div>    
+<div class='menu'>Jadi <i>Neptu</i> Kalian <b>`+layla[3]+`</b> dan <b>`+majnun[3]+`</b> wetonnya  <b>`+total+`</b></div>    
             <div class="row mt-3">&nbsp &nbsp &nbsp
                 <div class="col-12 hasil" id="hasil" style="background-color: #`+final[2]+`;">
                        <center><br><strong>`+final[0]+`  (`+total+`) </strong> </center>
