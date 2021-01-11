@@ -129,11 +129,9 @@ $('#submit').on('click', function () {
     var nama2 = $('#inputNama2').val();	
 
     var tanggal1 = $('#inputTanggal1').val();
-    var tanggal2 = $('#inputTanggal2').val();
     
     var layla = Hitung(tanggal1);
 
-    var majnun = Hitung(tanggal2);
     
     var total = layla[3];
     var final = weton(total)
