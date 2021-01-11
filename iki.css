@@ -1,0 +1,26 @@
+body {
+    font-family: 'Quicksand', sans-serif;
+    color: #3B4C52;
+}
+
+.ikon {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+}
+
+.btn-hitung, .btn-hitung:hover {
+    background-color:#FF4F5A;
+    border-color: #FF4F5A;
+}
+
+.github {
+    width: 15px;
+    height: auto;
+}
+
+#hasil {
+    color: #3B4C52;
+    border-radius: 5px;
+}
