@@ -158,19 +158,19 @@ $('#submit').on('click', function () {
 <div class="card"><div class="container">
         <div class="card-body">
             <div class="row">
-                <div class="col-12"><td>Nama Kamu : <b>`+nama1+`</b></td></div>
+                <div class="col-12">Nama Kamu : <b>`+nama1+`</b></div>
                 <div class=col-4>Tanggal Lahir : `+layla[0][0]+` `+layla[0][1]+` `+layla[0][2]+`</div>
                 <div class=col-4>Pasaran : `+layla[1]+ ` `+layla[2]+`   </div>
                 <div class=col-4>Neptu  : `+layla[3]+`  </div>
             </div><i class='separate'></i>    
             <div class="row mt-2">
-                <div class="col-12"><tr>Pasangan Kamu : <b>`+nama2+`</b></tr></div>
+                <div class="col-12">Pasangan Kamu : <b>`+nama2+`</b></div>
                 <div class=col-4>Tanggal Lahir : `+majnun[0][0]+` `+majnun[0][1]+` `+majnun[0][2]+`</div>
                 <div class=col-4>Pasaran : `+majnun[1]+ ` `+majnun[2]+` </div>
                 <div class=col-4>Neptu  : `+majnun[3]+`  </div>
 
 </div>
-</div><br><div class="menu">Jadi Neptu Kalian <b>`+layla[3]+`</b> dan <b>`+majnun[3]+`</b> wetonnya  <b>`+total+`</b></div>    
+</div><div class='post-block'>Jadi <i>Neptu</i> Kalian <b>`+layla[3]+`</b> dan <b>`+majnun[3]+`</b> wetonnya  <b>`+total+`</b></div>    
             <div class="row mt-3">&nbsp &nbsp &nbsp
                 <div class="col-12 hasil" id="hasil" style="background-color: #`+final[2]+`;">
                        <center><br><strong>`+final[0]+`  (`+total+`) </strong> </center>
