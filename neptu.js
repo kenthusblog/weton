@@ -112,28 +112,17 @@ $('#submit').on('click', function () {
      }else{
          document.getElementById('nama-alert').innerHTML = "";
      }
-     if (nama2 == 0) {			
-         document.getElementById('nama2-alert').innerHTML = "Waduhm pasanganmu kok kosong?";
-         //return false;
-     }else{
-         document.getElementById('nama2-alert').innerHTML = "";
-     }
+     
 
     //validasi tanggal
     var alertTgl1 = $("#inputTanggal1").val().length;
-    var alertTgl2 = $("#inputTanggal2").val().length;
         if (alertTgl1 == 0) {			
             document.getElementById('tanggal-alert').innerHTML = "Tanggalnya diisi dulu cuy";
             //return false;
         }else{
             document.getElementById('tanggal-alert').innerHTML = "";
         }
-        if (alertTgl2 == 0) {			
-            document.getElementById('tanggal2-alert').innerHTML = "Tanggalnya diisi dulu cuy";
-            //return false;
-        }else{
-            document.getElementById('tanggal2-alert').innerHTML = "";
-        }
+        
    $("#result").html("");
 
     var nama1 = $('#inputNama1').val();
