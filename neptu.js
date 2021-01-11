@@ -140,9 +140,11 @@ $('#submit').on('click', function () {
     <div class="card">
         <div class="card-body">
             <div class="row">
-                <div class="col-11">`+nama1+`</div>
-                <div class=col-4>Tanggal </div> <div class=col-8>: `+layla[0][0]+` `+layla[0][1]+` `+layla[0][2]+`</div>
-                <div class=col-4>Pasaran </div> <div class=col-6>: `+layla[1]+ ` `+layla[2]+`</div>
+                <div class="col-11">Nama Kamu : `+nama1+`</div>
+                <div class=col-4>lahir Tanggal : `+layla[0][0]+` `+layla[0][1]+` `+layla[0][2]+`</div>
+                <div class=col-4>Pasaran : `+layla[1]+ ` `+layla[2]+`</div>
+                <div class=col-4>Neptu : `+layla[3]+ `</div>
+
             </div>    
            
             <div class="row mt-3">
