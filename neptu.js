@@ -87,10 +87,10 @@ function weton(x){
  var Lakune Bumi = [16,'Lakune Bumi','"Hasil Lakune Bumi, Orang yang memiliki neptu 16 adalah orang yang lahir pada Kamis(8) Kliwon (8), Sabtu (9) Pon (7) dan juga Rabu (7) Pahing (9). Watak dan kepribadian orang dengan neptu 16 adalah orang yang mudah diatur dan suka mengayomi. Ia adalah sosok yang cocok untuk menjadi seorang pemimpin yang baik. Sopan santun, pemaaf dan tidak mudah marah membuat dia memiliki banyak teman. Tetapi hati hati jika sampai ia marah maka akan mengerikan sekali."']
 
 
- var Lakune Gunung = [14,'Lakune Gunung','"Hasil Lakune Gunung, Orang yang memiliki neptu 17 adalah orang yang lahir pada Sabtu (9) Kliwon (8) atau Kamis(8) Pahing (9). Watak dan kepribadian orang dengan neptu 17 adalah orang yang moody, pendiam, lambat dan terlalu baik. Apabila seseorang bisa mengambil hatinya maka ia akan mudah diatur."']
+ var Lakune Gunung = [17,'Lakune Gunung','"Hasil Lakune Gunung, Orang yang memiliki neptu 17 adalah orang yang lahir pada Sabtu (9) Kliwon (8) atau Kamis(8) Pahing (9). Watak dan kepribadian orang dengan neptu 17 adalah orang yang moody, pendiam, lambat dan terlalu baik. Apabila seseorang bisa mengambil hatinya maka ia akan mudah diatur."']
 
 
- var Lakune Paripurna = [14,'Lakune Paripurna','"Hasil Lakune Paripurna, Orang yang memiliki neptu 18 adalah orang yang lahir pada Sabtu (9) Pahing (9). Watak dan kepribadian orang dengan neptu 18 adalah orang yang suka akan kekuasaan, setiap permintaannya harus dipenuhi. Ia juga jadi sosok yang mudah panas tetapi mudah mengalah jika amarahnya redah."']
+ var Lakune Paripurna = [18,'Lakune Paripurna','"Hasil Lakune Paripurna, Orang yang memiliki neptu 18 adalah orang yang lahir pada Sabtu (9) Pahing (9). Watak dan kepribadian orang dengan neptu 18 adalah orang yang suka akan kekuasaan, setiap permintaannya harus dipenuhi. Ia juga jadi sosok yang mudah panas tetapi mudah mengalah jika amarahnya redah."']
 
 
 
