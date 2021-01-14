@@ -171,13 +171,13 @@ $('#submit').on('click', function () {
 
 </tbody>
 </div><p></p>
-  <div class='block-author'><span class='block'>Jadi <i>Neptu</i>  <b>`+layla[3]+`</b> dan <b>`+majnun[3]+`</b> <i>Wetonnya</i>  <b>`+total+`</b></span></div>    
+  <div class='block'><span class='block'>Jadi <i>Neptu</i>  <b>`+layla[3]+`</b> dan <b>`+majnun[3]+`</b> <i>Wetonnya</i>  <b>`+total+`</b></span></div>    
             &nbsp &nbsp &nbsp
                        <center><br><strong>`+final[0]+`  (`+total+`) </strong> </center>
 
                     <p><blockquote>
                          `+final[1]+`
-                    <span class='block-desc' align="right" style="font-size: 0.7em"><a href="https://www.panjinawangkung.com">panjinawangkung.com</a></span></p></div></blockquote>
+                      <br/><div class='block-author'><span class='block-desc' align="right" style="font-size: 0.7em"><a href="https://www.panjinawangkung.com">panjinawangkung.com</a></span></p></div></blockquote>
                 </div>
         </div>
     
