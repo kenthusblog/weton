@@ -171,13 +171,13 @@ $('#submit').on('click', function () {
 
 </tbody>
 </div><p></p>
-<div class='menu'><span class='block'>Jadi <i>Neptu</i> Kalian <b>`+layla[3]+`</b> dan <b>`+majnun[3]+`</b> Wetonnya  <b>`+total+`</b></span></div>    
+<span class='block'>Jadi <i>Neptu</i> Kalian <b>`+layla[3]+`</b> dan <b>`+majnun[3]+`</b> Wetonnya  <b>`+total+`</b></span>    
             &nbsp &nbsp &nbsp
                        <center><br><strong>`+final[0]+`  (`+total+`) </strong> </center>
 
                     <p><blockquote>
                          `+final[1]+`
-                    </blockquote><br/><br/><span class="text" style="font-size: 0.7em"><a href="https://www.panjinawangkung.com">panjinawangkung.com</a></span></p>
+                    </blockquote><br/><span class="text" align="right" style="font-size: 0.7em"><a href="https://www.panjinawangkung.com">panjinawangkung.com</a></span></p>
                 </div>
             </div>
         </div>
