@@ -175,7 +175,6 @@ $('#submit').on('click', function () {
 </div>
 <div class='menu'>Jadi <i>Neptu</i> Kalian <b>`+layla[3]+`</b> dan <b>`+majnun[3]+`</b> wetonnya  <b>`+total+`</b></div>    
             &nbsp &nbsp &nbsp
-                <div class="menu hasil" id="hasil" style="background-color: #`+final[2]+`;">
                        <center><br><strong>`+final[0]+`  (`+total+`) </strong> </center>
 
                     <p><blockquote>
