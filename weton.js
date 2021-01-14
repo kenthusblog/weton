@@ -174,7 +174,7 @@ $('#submit').on('click', function () {
   </table>
 </div>
 <div class='menu'>Jadi <i>Neptu</i> Kalian <b>`+layla[3]+`</b> dan <b>`+majnun[3]+`</b> wetonnya  <b>`+total+`</b></div>    
-            <div class='post-block'>&nbsp &nbsp &nbsp
+            &nbsp &nbsp &nbsp
                 <div class="menu hasil" id="hasil" style="background-color: #`+final[2]+`;">
                        <center><br><strong>`+final[0]+`  (`+total+`) </strong> </center>
 
