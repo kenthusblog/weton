@@ -165,7 +165,7 @@ $('#submit').on('click', function () {
 <i class='separate'></i>    
             
                 Pasangan Kamu : <b>`+nama2+`</b><br/>
-                Tanggal Lahir : <b>`+majnun[0][0]+` `+majnun[0][1]+` `+majnun[0][2]+`<br/>
+                Tanggal Lahir : <b>`+majnun[0][0]+` `+majnun[0][1]+` `+majnun[0][2]+` </b><br/>
                 Pasaran : <b> `+majnun[1]+ ` `+majnun[2]+` </b><br/>
                 Neptu  : <b> `+majnun[3]+`  </b><br/>
 
@@ -177,7 +177,7 @@ $('#submit').on('click', function () {
 
                     <p><blockquote>
                          `+final[1]+`
-                    </blockquote><br/><span class="text" align="right" style="font-size: 0.7em"><a href="https://www.panjinawangkung.com">panjinawangkung.com</a></span></p>
+                    </blockquote><align="right" style="font-size: 0.7em"><a href="https://www.panjinawangkung.com">panjinawangkung.com</a></align></p>
                 </div>
             </div>
         </div>
