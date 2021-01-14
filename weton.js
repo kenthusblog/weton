@@ -154,7 +154,7 @@ $('#submit').on('click', function () {
 
     $("#result").append(`                    
     
-
+<div class='weton'>
 <div class='table'>
   <table style='white-space: nowrap;'>    <tbody>
                 <tr><td>Nama Kamu : <b>`+nama1+`</b></td>
@@ -172,7 +172,7 @@ $('#submit').on('click', function () {
 </tr>
 </tbody>
   </table>
-</div>
+</div></div>
 <div class='menu'>Jadi <i>Neptu</i> Kalian <b>`+layla[3]+`</b> dan <b>`+majnun[3]+`</b> wetonnya  <b>`+total+`</b></div>    
             &nbsp &nbsp &nbsp
                        <center><br><strong>`+final[0]+`  (`+total+`) </strong> </center>
