@@ -170,8 +170,8 @@ $('#submit').on('click', function () {
                 Neptu  : `+majnun[3]+`  <br/>
 
 </tbody>
-</div>
-<div class='menu'><span class='block'>Jadi <i>Neptu</i> Kalian <b>`+layla[3]+`</b> dan <b>`+majnun[3]+`</b> wetonnya  <b>`+total+`</b></span></div>    
+</div><p></p>
+<div class='menu'><span class='block'>Jadi <i>Neptu</i> Kalian <b>`+layla[3]+`</b> dan <b>`+majnun[3]+`</b> Wetonnya  <b>`+total+`</b></span></div>    
             &nbsp &nbsp &nbsp
                        <center><br><strong>`+final[0]+`  (`+total+`) </strong> </center>
 
