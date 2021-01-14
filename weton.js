@@ -179,7 +179,7 @@ $('#submit').on('click', function () {
 
                     <p><blockquote>
                          `+final[1]+`
-                    </blockquote></p><span class="text" style="font-size: 0.7em"><a href="https://www.panjinawangkung.com">panjinawangkung.com</a></span>
+                    </blockquote><br/><br/><span class="text" style="font-size: 0.7em"><a href="https://www.panjinawangkung.com">panjinawangkung.com</a></span></p>
                 </div>
             </div>
         </div>
