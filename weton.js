@@ -156,18 +156,18 @@ $('#submit').on('click', function () {
     
 <div class='weton'>
     <tbody>
-                <tr><td>Nama Kamu : <b>`+nama1+`</b></td>
-                <td>Tanggal Lahir : `+layla[0][0]+` `+layla[0][1]+` `+layla[0][2]+`</td>
-                <td>Pasaran : `+layla[1]+ ` `+layla[2]+`   </td>
-                <td>Neptu  : `+layla[3]+`  </td>
-            </tr>
+                Nama Kamu : <b>`+nama1+`</b><br/>
+                Tanggal Lahir : `+layla[0][0]+` `+layla[0][1]+` `+layla[0][2]+`<br/>
+                Pasaran : `+layla[1]+ ` `+layla[2]+`   <br/>
+                Neptu  : `+layla[3]+`  <br/>
+           
 
 <i class='separate'></i>    
             
-                <td>Pasangan Kamu : <b>`+nama2+`</b></td><br>
-                <td>Tanggal Lahir : `+majnun[0][0]+` `+majnun[0][1]+` `+majnun[0][2]+`</td>
-                <td>Pasaran : `+majnun[1]+ ` `+majnun[2]+` </td>
-                <td>Neptu  : `+majnun[3]+`  </td>
+                Pasangan Kamu : <b>`+nama2+`</b><br/>
+                Tanggal Lahir : `+majnun[0][0]+` `+majnun[0][1]+` `+majnun[0][2]+`<br/>
+                Pasaran : `+majnun[1]+ ` `+majnun[2]+` <br/>
+                Neptu  : `+majnun[3]+`  <br/>
 
 </tbody>
 </div>
