@@ -66,7 +66,7 @@ function Hitung(x){
 function weton(x){
     var pegat = [7,'Pendito Kang Lelaku','"Hasil pegat, Orang yang memiliki jumlah neptu 7 adalah orang yang lahir pada hari selasa (3) Wage (4). Orang yang lahir pada neptu 7 memiliki sifat dan watak serta kepribadian yang sedikit pemalas, suka bepergian, suka ingkar janji dan juga kurang pintar dalam berkomunikasi. Hal ini menyebabkan lingkungan pergaulannya terbatas. Yang pasti ia merupakan sosok yang suka untuk bepergian kemana saja."']
 
-    var ratu = [8,'Lakune Geni','"Hasil Ratu, Orang yang memiliki neptu 8 adalah orang yang lahir pada Selasa (3) Legi (5) dan Senin (4) Wage (4). Watak dan kepribadian orang dengan neptu 8 adalah orang yang mempunyai karakter pendedam, panas hati, gampang marah, sering bertengkar. Ia mempunyai emosi yang meledak ledak sehingga sering kali timbul permasalahan akibat dari emosi yang dikeluarkannya."']
+    var ratu = [8,'ratu','"Hasil Ratu, Orang yang memiliki neptu 8 adalah orang yang lahir pada Selasa (3) Legi (5) dan Senin (4) Wage (4). Watak dan kepribadian orang dengan neptu 8 adalah orang yang mempunyai karakter pendedam, panas hati, gampang marah, sering bertengkar. Ia mempunyai emosi yang meledak ledak sehingga sering kali timbul permasalahan akibat dari emosi yang dikeluarkannya."']
 
     var jodo = [9,'Lakune Angin','"Hasil Jodoh, Orang yang memiliki neptu 9 adalah orang yang lahir pada Senin (4) Legi (5) dan Minggu (5) Wage (4). Watak dan kepribadian orang dengan neptu 9 adalah orang yang mempunyai karakter mudah untuk dipengaruhi orang lain dan sering terjadi mereka tidak memiliki pendirian hidup. Orang ini termasuk orang yang pendiam tetapi lincah. Salah satu hal terbaik menurut primbon jawa kuno orang yang memiliki neptu 9 kebal bila di guna guna."']
 
