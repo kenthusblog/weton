@@ -146,7 +146,7 @@ $('#submit').on('click', function () {
     <tbody>
                 Nama Kamu : <b>`+nama1+`</b><br/>
                 Tanggal Lahir : <b>`+layla[0][0]+` `+layla[0][1]+` `+layla[0][2]+` </b><br/>
-                Neptu : <b>`+layla[0][0]+` = `+layla[0][3]+`  </b><br/>
+                Neptu : <b>`+layla[0]+` = `+layla[1][0]+`  </b><br/>
 
 
                 Pasaran : <b>`+layla[1]+ ` `+layla[2]+` </b>  <br/>
