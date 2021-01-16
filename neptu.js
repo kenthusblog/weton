@@ -158,17 +158,8 @@ $('#submit').on('click', function () {
 
 </tbody>
 </div><p></p>
-  <div class='post-block'>Jadi <i>Neptu</i>  <b>`+layla[0]+`</b> dan <b>`+layla[1]+`</b> <i>Wetonnya</i>  <b>`+total+`</b> </div> 
-
-
-            &nbsp &nbsp &nbsp
-                       <center><br><strong>`+final[3]+`  (`+total+`) </strong> </center>
-
-                    <p><blockquote>
-                         `+final[1]+`
-                      <br/><div class='block-author'><span class='block-desc' align='right' style="font-size: 0.7em"><a href="https://www.panjinawangkung.com">panjinawangkung.com</a></span></p></div></blockquote>
+ <div class='block-author'><span class='block-desc' align='right' style="font-size: 0.7em"><a href="https://www.panjinawangkung.com">panjinawangkung.com</a></span></p></div></blockquote>
                 </div>
-        </div>
     
                      `);
                      
