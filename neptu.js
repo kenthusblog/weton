@@ -134,7 +134,7 @@ $('#submit').on('click', function () {
     
     var layla = Hitung(tanggal1);
 
-    var oke = ankday[3];
+    var oke = Hitung(ankday);
     
 	
     var total = layla[3];
