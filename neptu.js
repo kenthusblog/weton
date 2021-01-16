@@ -161,14 +161,11 @@ $('#submit').on('click', function () {
 
 <i class='separate'></i>    
             
-                Pasangan Kamu : <b>`+nama2+`</b><br/>
-                Tanggal Lahir : <b>`+majnun[0][0]+` `+majnun[0][1]+` `+majnun[0][2]+` </b><br/>
-                Pasaran : <b> `+majnun[1]+ ` `+majnun[2]+` </b><br/>
-                Neptu  : <b> `+majnun[3]+`  </b><br/>
+     
 
 </tbody>
 </div><p></p>
-  <div class='post-block'>Jadi <i>Neptu</i>  <b>`+layla[3]+`</b> dan <b>`+majnun[3]+`</b> <i>Wetonnya</i>  <b>`+total+`</b></div>    
+  <div class='post-block'>Jadi <i>Neptu</i>  <b>`+layla[1]+`</b> dan <b>`+layla[2]+`</b> <i>Wetonnya</i>  <b>`+total+`</b></div>    
             &nbsp &nbsp &nbsp
                        <center><br><strong>`+final[0]+`  (`+total+`) </strong> </center>
 
