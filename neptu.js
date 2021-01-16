@@ -147,7 +147,6 @@ $('#submit').on('click', function () {
                 Nama Kamu : <b>`+nama1+`</b><br/>
                 Tanggal Lahir : <b>`+layla[0][0]+` `+layla[0][1]+` `+layla[0][2]+` </b><br/>
                 Hari : <b>`+layla[1]+` </b><br/>
-`+angkaWeton[1]+`
 
                 Pasaran : <b> `+layla[2]+` </b>  <br/>
                 Neptu  : <b>`+layla[3]+` </b> <br/>
@@ -159,7 +158,7 @@ $('#submit').on('click', function () {
 
 </tbody>
 </div><p></p>
-  <div class='post-block'>Jadi <i>Neptu</i>  <b>`+layla[0]+`</b> dan <b>`+layla[1]+`</b> <i>Wetonnya</i>  <b>`+total+`</b></div> 
+  <div class='post-block'>Jadi <i>Neptu</i>  <b>`+layla[0]+`</b> dan <b>`+layla[1]+`</b> <i>Wetonnya</i>  <b>`+total+`</b> </div> 
 
 <b>`+total[2]+`</b>
 
