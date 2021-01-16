@@ -106,8 +106,8 @@ $('#submit').on('click', function () {
 
      //validasi nama
      var nama = $("#inputNama1").val().length;
-     var nama2 = $("#inputNama2").val().length;
-     if (nama == 0) {			
+
+	if (nama == 0) {			
          document.getElementById('nama-alert').innerHTML = "Nama tidak boleh kosong :)";
          //return false;
      }else{
@@ -122,7 +122,6 @@ $('#submit').on('click', function () {
 
     //validasi tanggal
     var alertTgl1 = $("#inputTanggal1").val().length;
-    var alertTgl2 = $("#inputTanggal2").val().length;
         if (alertTgl1 == 0) {			
             document.getElementById('tanggal-alert').innerHTML = "Tanggalnya diisi dulu gaes";
             //return false;
