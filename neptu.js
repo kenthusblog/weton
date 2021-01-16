@@ -74,7 +74,7 @@ function weton(x){
 
     var tinari = [10,'TINARI','"Hasil Tinari, menurut hitungan weton jawanya berarti akan menemukan kebehagaiaan dimasa nanti. Selain itu gampang dalam mencari rezeki dan sering mendapatkan keberuntungan."']
 
-    var padu = [11,'LakuneSetan','"Hasil Padu, Orang yang memiliki neptu 11 adalah orang yang lahir pada Senin (4) Pon (7), Rabu (7) Wage (4) , Selasa (3) Kliwon (8) dan Jumat (6) Legi (5). Watak dan kepribadian orang dengan neptu 11 adalah mereka tipikal orang yang tidak bisa menjadi seorang pemimpin dikarenakan tidak memiliki jiwa kepemimpinan dan juga orang yang plin plan. Walaupun dia terlihat sebagai sosok yang pemberani."']
+    var padu = [11,'Lakune Setan','"Hasil Padu, Orang yang memiliki neptu 11 adalah orang yang lahir pada Senin (4) Pon (7), Rabu (7) Wage (4) , Selasa (3) Kliwon (8) dan Jumat (6) Legi (5). Watak dan kepribadian orang dengan neptu 11 adalah mereka tipikal orang yang tidak bisa menjadi seorang pemimpin dikarenakan tidak memiliki jiwa kepemimpinan dan juga orang yang plin plan. Walaupun dia terlihat sebagai sosok yang pemberani."']
 
     var sujanan = [12,'Lakune Kembang','"Hasil sujanan, Orang yang memiliki neptu 12 adalah orang yang lahir pada Minggu (5) Pon (7), Kamis(8) Wage (4), Senin (4) Kliwon (8), Rabu (7) Legi (5), dan Selasa (3) Pahing (9). Watak dan kepribadian orang dengan neptu 12  adalah ia sosok yang suka mengalah terhadap orang lain dan tipikal orang yang cinta damai. Dia penurut, rajin, pintar dan juga sayang pada teman temannya. Orang dengan neptu 12 di ramalkan akan sering kehilangan barang."']
 
