@@ -142,7 +142,6 @@ $('#submit').on('click', function () {
     $("#result").append(`                    
     
 <div class='weton'>
-    <tbody>
                 Nama Kamu : <b>`+nama1+`</b><br/>
                 Tanggal Lahir : <b>`+layla[0][0]+` `+layla[0][1]+` `+layla[0][2]+` </b><br/>
                 Hari : <b>`+layla[1]+` </b><br/>
@@ -154,9 +153,8 @@ $('#submit').on('click', function () {
             
      
 
-</tbody>
 </div><p></p>
- <div class='block-author'><span class='block-desc' align='right' style="font-size: 0.7em"><a href="https://www.panjinawangkung.com">panjinawangkung.com</a></span></p></div></blockquote>
+ <div class='block-author'><span class='block-desc' align='right' style="font-size: 0.7em"><a href="https://www.panjinawangkung.com">panjinawangkung.com</a></span></p>
                 </div>
     
                      `);
