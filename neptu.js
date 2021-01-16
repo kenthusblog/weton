@@ -72,13 +72,13 @@ function weton(x){
 
     var topo = [10,'Pendito Mbangun Teki','"Hasil Topo, Orang yang memiliki neptu 10 adalah orang yang lahir pada Selasa (4) Pon (7), Jumat (6) Wage (4) dan Minggu (5) Legi (5). Watak dan kepribadian orang dengan neptu 10 adalah merupakan orang yang suka memberikan nasehat kepada orang lain tetapi tidak menerima saran ataupun kritik orang lain. Ia juga merupakan orang yang cerdas dan tidak mudah tersinggung."']
 
-    var tinari = [10,'TINARI','"Hasil Tinari, menurut hitungan weton jawanya berarti akan menemukan kebehagaiaan dimasa nanti. Selain itu gampang dalam mencari rezeki dan sering mendapatkan keberuntungan."']
+    var tinari = [11,'TINARI','"Hasil Tinari, menurut hitungan weton jawanya berarti akan menemukan kebehagaiaan dimasa nanti. Selain itu gampang dalam mencari rezeki dan sering mendapatkan keberuntungan."']
 
-    var padu = [11,'Lakune Setan','"Hasil Padu, Orang yang memiliki neptu 11 adalah orang yang lahir pada Senin (4) Pon (7), Rabu (7) Wage (4) , Selasa (3) Kliwon (8) dan Jumat (6) Legi (5). Watak dan kepribadian orang dengan neptu 11 adalah mereka tipikal orang yang tidak bisa menjadi seorang pemimpin dikarenakan tidak memiliki jiwa kepemimpinan dan juga orang yang plin plan. Walaupun dia terlihat sebagai sosok yang pemberani."']
+    var padu = [12,'Lakune Setan','"Hasil Padu, Orang yang memiliki neptu 11 adalah orang yang lahir pada Senin (4) Pon (7), Rabu (7) Wage (4) , Selasa (3) Kliwon (8) dan Jumat (6) Legi (5). Watak dan kepribadian orang dengan neptu 11 adalah mereka tipikal orang yang tidak bisa menjadi seorang pemimpin dikarenakan tidak memiliki jiwa kepemimpinan dan juga orang yang plin plan. Walaupun dia terlihat sebagai sosok yang pemberani."']
 
-    var sujanan = [12,'Lakune Kembang','"Hasil sujanan, Orang yang memiliki neptu 12 adalah orang yang lahir pada Minggu (5) Pon (7), Kamis(8) Wage (4), Senin (4) Kliwon (8), Rabu (7) Legi (5), dan Selasa (3) Pahing (9). Watak dan kepribadian orang dengan neptu 12  adalah ia sosok yang suka mengalah terhadap orang lain dan tipikal orang yang cinta damai. Dia penurut, rajin, pintar dan juga sayang pada teman temannya. Orang dengan neptu 12 di ramalkan akan sering kehilangan barang."']
+    var sujanan = [13,'Lakune Kembang','"Hasil sujanan, Orang yang memiliki neptu 12 adalah orang yang lahir pada Minggu (5) Pon (7), Kamis(8) Wage (4), Senin (4) Kliwon (8), Rabu (7) Legi (5), dan Selasa (3) Pahing (9). Watak dan kepribadian orang dengan neptu 12  adalah ia sosok yang suka mengalah terhadap orang lain dan tipikal orang yang cinta damai. Dia penurut, rajin, pintar dan juga sayang pada teman temannya. Orang dengan neptu 12 di ramalkan akan sering kehilangan barang."']
 
-    var pesthi = [13,'Lakune Lintang','"Hasil Pesthi, Orang yang memiliki neptu 13 adalah orang yang lahir pada Sabtu (9) Wage (4), Minggu (5) Kliwon (8), Senin (4) Pahing (9), Kamis(8) Legi (5) dan juga Jumat (6) Pon (7). Watak dan kepribadian orang dengan neptu 13  adalah orang yang memiliki pesona yang sangat baik, lemah lembut, berjiwa petualang, ia adalah orang yang memiliki karisma yang tinggi tetapi tidak bisa memimpin."']
+    var pesthi = [14,'Lakune Lintang','"Hasil Pesthi, Orang yang memiliki neptu 13 adalah orang yang lahir pada Sabtu (9) Wage (4), Minggu (5) Kliwon (8), Senin (4) Pahing (9), Kamis(8) Legi (5) dan juga Jumat (6) Pon (7). Watak dan kepribadian orang dengan neptu 13  adalah orang yang memiliki pesona yang sangat baik, lemah lembut, berjiwa petualang, ia adalah orang yang memiliki karisma yang tinggi tetapi tidak bisa memimpin."']
 
 
     if(pegat.some(item => item == x)){
@@ -163,7 +163,7 @@ $('#submit').on('click', function () {
 <b>`+total[2]+`</b>
 
             &nbsp &nbsp &nbsp
-                       <center><br><strong>`+final[0]+`  (`+total+`) </strong> </center>
+                       <center><br><strong>`+final[3]+`  (`+total+`) </strong> </center>
 
                     <p><blockquote>
                          `+final[1]+`
