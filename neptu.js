@@ -140,7 +140,6 @@ $('#submit').on('click', function () {
    $("#result").html("");
 
     var nama1 = $('#inputNama1').val();
-    var nama2 = $('#inputNama2').val();	
 
     var tanggal1 = $('#inputTanggal1').val();
     
