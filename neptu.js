@@ -149,7 +149,7 @@ $('#submit').on('click', function () {
     
     
 	
-    var total = layla[3]+majnun[3];
+    var total = layla[3];
     var final = weton(total)
 
     $("#result").append(`                    
