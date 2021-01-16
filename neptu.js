@@ -134,7 +134,6 @@ $('#submit').on('click', function () {
     
     var layla = Hitung(tanggal1);
 
-    var oke = Hitung(ankday);
     
 	
     var total = layla[3];
@@ -147,7 +146,6 @@ $('#submit').on('click', function () {
                 Nama Kamu : <b>`+nama1+`</b><br/>
                 Tanggal Lahir : <b>`+layla[0][0]+` `+layla[0][1]+` `+layla[0][2]+` </b><br/>
                 Hari : <b>`+layla[1]+` </b><br/>
-`+oke[1]+`
                 Pasaran : <b> `+layla[2]+` </b>  <br/>
                 Neptu  : <b>`+layla[3]+` </b> <br/>
            
