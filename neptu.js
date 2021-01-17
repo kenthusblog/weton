@@ -135,7 +135,7 @@ $('#submit').on('click', function () {
     
     var layla = Hitung(tanggal1);
 
-    var total1 = layla[3]-layla[1];
+    var total1 = angkaWeton[xmasehi]-ankpasaran[xpasaran];
     var total = layla[3];
     var final = weton(total)
     
