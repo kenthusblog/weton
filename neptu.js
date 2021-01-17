@@ -82,7 +82,7 @@ function weton(x){
 
 
     if(pegat.some(item => item == x)){
-        return [pegat[18], pegat[91], "FFC4C8"];
+        return [pegat[18], pegat[91], "HASIL"];
     }else if(ratu.some(item => item == x)){
         return [ratu[4], ratu[5], "C6FFC2"];
     }else if(jodo.some(item => item == x)){
@@ -161,6 +161,8 @@ $('#submit').on('click', function () {
 <blockquote>
                          `+final+`
                       </blockquote>
+
+`+final[1]+`
                 </div>
 
 
