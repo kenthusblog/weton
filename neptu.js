@@ -152,9 +152,8 @@ $('#submit').on('click', function () {
 
 <i class='separate'></i>    
             
-     
+`+layla[1][2]+`     
 
-<p></p>
  
 `+isi[1]+`
 
