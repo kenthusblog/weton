@@ -82,7 +82,7 @@ function weton(x){
 
 
     if(pegat.some(item => item == x)){
-        return [pegat[20] pegat[91] "Hasil pegat, Orang yang memiliki jumlah neptu 7 adalah orang yang lahir pada hari selasa (3) Wage (4). Orang yang lahir pada neptu 7 memiliki sifat dan watak serta kepribadian yang sedikit pemalas, suka bepergian, suka ingkar janji dan juga kurang pintar dalam berkomunikasi. Hal ini menyebabkan lingkungan pergaulannya terbatas. Yang pasti ia merupakan sosok yang suka untuk bepergian kemana saja."];
+        return [pegat[20] pegat[91], "Hasil pegat, Orang yang memiliki jumlah neptu 7 adalah orang yang lahir pada hari selasa (3) Wage (4). Orang yang lahir pada neptu 7 memiliki sifat dan watak serta kepribadian yang sedikit pemalas, suka bepergian, suka ingkar janji dan juga kurang pintar dalam berkomunikasi. Hal ini menyebabkan lingkungan pergaulannya terbatas. Yang pasti ia merupakan sosok yang suka untuk bepergian kemana saja."];
     }else if(ratu.some(item => item == x)){
         return [ratu[24], ratu[35], "C6FFC2"];
     }else if(jodo.some(item => item == x)){
