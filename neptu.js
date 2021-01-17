@@ -150,6 +150,9 @@ $('#submit').on('click', function () {
            
 
 <i class='separate'></i>    
+
+<b>`+layla[1][3]+` </b>
+
            </div> 
 
 
