@@ -155,17 +155,7 @@ $('#submit').on('click', function () {
      
 
 <p></p>
- <div class='block-author'><span class='block-desc' align='right' style="font-size: 0.7em"><a href="https://www.panjinawangkung.com">panjinawangkung.com</a></span>
-                </div></div>
-    
-
-<blockquote>
-                         `+final+`
-                      </blockquote>
-
-`+final[0]+`
-                </div>
-
+ 
 
 
                      `);
