@@ -156,6 +156,7 @@ $('#submit').on('click', function () {
 
 <p></p>
  
+`+ankday[1]+`
 
 
                      `);
