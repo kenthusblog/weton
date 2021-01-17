@@ -138,7 +138,6 @@ $('#submit').on('click', function () {
     
     var total = layla[3];
     var final = weton(total)
-    var neptu = ankday[3];
     
     $("#result").append(`                    
     
