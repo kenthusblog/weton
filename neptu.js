@@ -162,7 +162,7 @@ $('#submit').on('click', function () {
                          `+final+`
                       </blockquote>
 
-`+final[1]+`
+`+final[0]+`
                 </div>
 
 
