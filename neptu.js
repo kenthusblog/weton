@@ -150,7 +150,7 @@ $('#submit').on('click', function () {
            
 
 <i class='separate'></i>    
-            
+           </div> 
 
 
 
