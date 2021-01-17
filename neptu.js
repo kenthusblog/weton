@@ -151,7 +151,7 @@ $('#submit').on('click', function () {
 
 <i class='separate'></i>    
 
-<b>`+neptu[1]+` </b>
+<b>`+layla[4]+`</b>
 
            </div> 
 
