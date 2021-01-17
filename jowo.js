@@ -157,7 +157,7 @@ function hitungWeton(prosesTanggal) {
     for (var i = 0; i < dataweton.length; i++) {
         if(tebakan + " " + weton === dataweton[i][0]){
         console.log(tebakan + " " + weton + ': ' + dataweton[i][1]);
-        alert(tebakan + "<b> " + weton + '</b>\n\n ' + dataweton[i][1]);
+        alert(tebakan + " " + weton + '\n\n ' + dataweton[i][1]);
         } 
     }
     if(tebakan + " " + weton === "Tidak Ada"){
