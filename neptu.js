@@ -138,7 +138,8 @@ $('#submit').on('click', function () {
     
     var total = layla[3];
     var final = weton(total)
-
+    var neptu = ankday[3];
+    
     $("#result").append(`                    
     
 <div class='weton'>
@@ -151,7 +152,7 @@ $('#submit').on('click', function () {
 
 <i class='separate'></i>    
 
-<b>`+day[1]+` </b>
+<b>`+neptu[1]+` </b>
 
            </div> 
 
