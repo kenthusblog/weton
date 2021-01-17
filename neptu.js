@@ -82,21 +82,21 @@ function weton(x){
 
 
     if(pegat.some(item => item == x)){
-        return [pegat[18], pegat[91], "HASIL"];
+        return [pegat[20], pegat[91], "HASIL"];
     }else if(ratu.some(item => item == x)){
-        return [ratu[4], ratu[5], "C6FFC2"];
+        return [ratu[24], ratu[35], "C6FFC2"];
     }else if(jodo.some(item => item == x)){
-        return [jodo[4], jodo[5], "C6FFC2"];
+        return [jodo[34], jodo[35], "C6FFC2"];
     }else if(topo.some(item => item == x)){
-        return [topo[4], topo[5], "E5E4C7"];
+        return [topo[34], topo[35], "E5E4C7"];
     }else if(tinari.some(item => item == x)){
-        return [tinari[4], tinari[5], "E5E4C7"];
+        return [tinari[34], tinari[35], "E5E4C7"];
     }else if(padu.some(item => item == x)){
-        return [padu[4], padu[5], "FFC4C8"];
+        return [padu[34], padu[35], "FFC4C8"];
     }else if(sujanan.some(item => item == x)){
-        return [sujanan[4], sujanan[5], "FFC4C8"];
+        return [sujanan[34], sujanan[35], "FFC4C8"];
     }else if(pesthi.some(item => item == x)){
-        return [pesthi[4], pesthi[5], "C6FFC2"];
+        return [pesthi[34], pesthi[35], "C6FFC2"];
     }
 }
 
