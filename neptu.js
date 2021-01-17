@@ -153,8 +153,6 @@ $('#submit').on('click', function () {
 <i class='separate'></i>    
             
 
- 
-`+isi[2]+`
 
 
                      `);
