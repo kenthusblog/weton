@@ -151,9 +151,9 @@ $('#submit').on('click', function () {
 
 <i class='separate'></i>    
 
-<b>`+layla[2][3]+`</b><br/>
+<b>`+layla[0]+`</b><br/>
 
-`+total1+`
+`+total1[0]+`
 
            </div> 
 
