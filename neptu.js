@@ -152,10 +152,9 @@ $('#submit').on('click', function () {
 
 <i class='separate'></i>    
             
-`+layla[1][2]+`     
 
  
-`+isi[1]+`
+`+isi[2]+`
 
 
                      `);
