@@ -136,7 +136,7 @@ $('#submit').on('click', function () {
     var layla = Hitung(tanggal1);
 
     
-	
+	var isi = ankday[1];
     var total = layla[3];
     var final = weton(total)
 
@@ -156,7 +156,7 @@ $('#submit').on('click', function () {
 
 <p></p>
  
-`+ankday[1]+`
+`+isi[1]+`
 
 
                      `);
