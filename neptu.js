@@ -64,21 +64,21 @@ function Hitung(x){
 
 
 function weton(x){
-    var pegat = [7,'Pendito Kang Lelaku','"Hasil pegat, Orang yang memiliki jumlah neptu 7 adalah orang yang lahir pada hari selasa (3) Wage (4). Orang yang lahir pada neptu 7 memiliki sifat dan watak serta kepribadian yang sedikit pemalas, suka bepergian, suka ingkar janji dan juga kurang pintar dalam berkomunikasi. Hal ini menyebabkan lingkungan pergaulannya terbatas. Yang pasti ia merupakan sosok yang suka untuk bepergian kemana saja."']
+    var pegat = [7,'PEGAT','"Hasil pegat, Orang yang memiliki jumlah neptu 7 adalah orang yang lahir pada hari selasa (3) Wage (4). Orang yang lahir pada neptu 7 memiliki sifat dan watak serta kepribadian yang sedikit pemalas, suka bepergian, suka ingkar janji dan juga kurang pintar dalam berkomunikasi. Hal ini menyebabkan lingkungan pergaulannya terbatas. Yang pasti ia merupakan sosok yang suka untuk bepergian kemana saja."']
 
-    var ratu = [8,'ratu','"Hasil Ratu, Orang yang memiliki neptu 8 adalah orang yang lahir pada Selasa (3) Legi (5) dan Senin (4) Wage (4). Watak dan kepribadian orang dengan neptu 8 adalah orang yang mempunyai karakter pendedam, panas hati, gampang marah, sering bertengkar. Ia mempunyai emosi yang meledak ledak sehingga sering kali timbul permasalahan akibat dari emosi yang dikeluarkannya."']
+    var ratu = [8,'RATU','"Hasil Ratu, Orang yang memiliki neptu 8 adalah orang yang lahir pada Selasa (3) Legi (5) dan Senin (4) Wage (4). Watak dan kepribadian orang dengan neptu 8 adalah orang yang mempunyai karakter pendedam, panas hati, gampang marah, sering bertengkar. Ia mempunyai emosi yang meledak ledak sehingga sering kali timbul permasalahan akibat dari emosi yang dikeluarkannya."']
 
-    var jodo = [9,'Lakune Angin','"Hasil Jodoh, Orang yang memiliki neptu 9 adalah orang yang lahir pada Senin (4) Legi (5) dan Minggu (5) Wage (4). Watak dan kepribadian orang dengan neptu 9 adalah orang yang mempunyai karakter mudah untuk dipengaruhi orang lain dan sering terjadi mereka tidak memiliki pendirian hidup. Orang ini termasuk orang yang pendiam tetapi lincah. Salah satu hal terbaik menurut primbon jawa kuno orang yang memiliki neptu 9 kebal bila di guna guna."']
+    var jodo = [9,'JODOH','"Hasil Jodoh, Orang yang memiliki neptu 9 adalah orang yang lahir pada Senin (4) Legi (5) dan Minggu (5) Wage (4). Watak dan kepribadian orang dengan neptu 9 adalah orang yang mempunyai karakter mudah untuk dipengaruhi orang lain dan sering terjadi mereka tidak memiliki pendirian hidup. Orang ini termasuk orang yang pendiam tetapi lincah. Salah satu hal terbaik menurut primbon jawa kuno orang yang memiliki neptu 9 kebal bila di guna guna."']
 
-    var topo = [10,'Pendito Mbangun Teki','"Hasil Topo, Orang yang memiliki neptu 10 adalah orang yang lahir pada Selasa (4) Pon (7), Jumat (6) Wage (4) dan Minggu (5) Legi (5). Watak dan kepribadian orang dengan neptu 10 adalah merupakan orang yang suka memberikan nasehat kepada orang lain tetapi tidak menerima saran ataupun kritik orang lain. Ia juga merupakan orang yang cerdas dan tidak mudah tersinggung."']
+    var topo = [10,'TOPO','"Hasil Topo, Orang yang memiliki neptu 10 adalah orang yang lahir pada Selasa (4) Pon (7), Jumat (6) Wage (4) dan Minggu (5) Legi (5). Watak dan kepribadian orang dengan neptu 10 adalah merupakan orang yang suka memberikan nasehat kepada orang lain tetapi tidak menerima saran ataupun kritik orang lain. Ia juga merupakan orang yang cerdas dan tidak mudah tersinggung."']
 
     var tinari = [11,'TINARI','"Hasil Tinari, menurut hitungan weton jawanya berarti akan menemukan kebehagaiaan dimasa nanti. Selain itu gampang dalam mencari rezeki dan sering mendapatkan keberuntungan."']
 
-    var padu = [12,'Lakune Setan','"Hasil Padu, Orang yang memiliki neptu 11 adalah orang yang lahir pada Senin (4) Pon (7), Rabu (7) Wage (4) , Selasa (3) Kliwon (8) dan Jumat (6) Legi (5). Watak dan kepribadian orang dengan neptu 11 adalah mereka tipikal orang yang tidak bisa menjadi seorang pemimpin dikarenakan tidak memiliki jiwa kepemimpinan dan juga orang yang plin plan. Walaupun dia terlihat sebagai sosok yang pemberani."']
+    var padu = [12,'PADU','"Hasil Padu, Orang yang memiliki neptu 11 adalah orang yang lahir pada Senin (4) Pon (7), Rabu (7) Wage (4) , Selasa (3) Kliwon (8) dan Jumat (6) Legi (5). Watak dan kepribadian orang dengan neptu 11 adalah mereka tipikal orang yang tidak bisa menjadi seorang pemimpin dikarenakan tidak memiliki jiwa kepemimpinan dan juga orang yang plin plan. Walaupun dia terlihat sebagai sosok yang pemberani."']
 
-    var sujanan = [13,'Lakune Kembang','"Hasil sujanan, Orang yang memiliki neptu 12 adalah orang yang lahir pada Minggu (5) Pon (7), Kamis(8) Wage (4), Senin (4) Kliwon (8), Rabu (7) Legi (5), dan Selasa (3) Pahing (9). Watak dan kepribadian orang dengan neptu 12  adalah ia sosok yang suka mengalah terhadap orang lain dan tipikal orang yang cinta damai. Dia penurut, rajin, pintar dan juga sayang pada teman temannya. Orang dengan neptu 12 di ramalkan akan sering kehilangan barang."']
+    var sujanan = [13,'SUJANAN','"Hasil sujanan, Orang yang memiliki neptu 12 adalah orang yang lahir pada Minggu (5) Pon (7), Kamis(8) Wage (4), Senin (4) Kliwon (8), Rabu (7) Legi (5), dan Selasa (3) Pahing (9). Watak dan kepribadian orang dengan neptu 12  adalah ia sosok yang suka mengalah terhadap orang lain dan tipikal orang yang cinta damai. Dia penurut, rajin, pintar dan juga sayang pada teman temannya. Orang dengan neptu 12 di ramalkan akan sering kehilangan barang."']
 
-    var pesthi = [14,'Lakune Lintang','"Hasil Pesthi, Orang yang memiliki neptu 13 adalah orang yang lahir pada Sabtu (9) Wage (4), Minggu (5) Kliwon (8), Senin (4) Pahing (9), Kamis(8) Legi (5) dan juga Jumat (6) Pon (7). Watak dan kepribadian orang dengan neptu 13  adalah orang yang memiliki pesona yang sangat baik, lemah lembut, berjiwa petualang, ia adalah orang yang memiliki karisma yang tinggi tetapi tidak bisa memimpin."']
+    var pesthi = [14,'PESTHI','"Hasil Pesthi, Orang yang memiliki neptu 13 adalah orang yang lahir pada Sabtu (9) Wage (4), Minggu (5) Kliwon (8), Senin (4) Pahing (9), Kamis(8) Legi (5) dan juga Jumat (6) Pon (7). Watak dan kepribadian orang dengan neptu 13  adalah orang yang memiliki pesona yang sangat baik, lemah lembut, berjiwa petualang, ia adalah orang yang memiliki karisma yang tinggi tetapi tidak bisa memimpin."']
 
 
     if(pegat.some(item => item == x)){
@@ -157,6 +157,14 @@ $('#submit').on('click', function () {
  <div class='block-author'><span class='block-desc' align='right' style="font-size: 0.7em"><a href="https://www.panjinawangkung.com">panjinawangkung.com</a></span>
                 </div></div>
     
+
+<blockquote>
+                         `+final[1]+`
+                      </blockquote>
+                </div>
+
+
+
                      `);
                      
     $('#myModal').modal('show');
