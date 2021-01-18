@@ -81,7 +81,7 @@ function weton(x){
 
 
     if(pegat.some(item => item == x)){
-        return [pegat[7], pegat[7], "FFC4C8"];
+        return [pegat[9], pegat[9], "FFC4C8"];
     }else if(ratu.some(item => item == x)){
         return [ratu[4], ratu[5], "C6FFC2"];
     }else if(jodo.some(item => item == x)){
@@ -109,7 +109,7 @@ $('#submit').on('click', function () {
      var nama = $("#inputNama1").val().length;
 
 	if (nama == 0) {			
-         document.getElementById('nama-alert').innerHTML = "Nama tidak boleh kosong :)";
+         document.getElementById('nama-alert').innerHTML = "Nama Jangan dikosongin dong Broo!! :)";
          //return false;
      }else{
          document.getElementById('nama-alert').innerHTML = "";
@@ -120,7 +120,7 @@ $('#submit').on('click', function () {
     //validasi tanggal
     var alertTgl1 = $("#inputTanggal1").val().length;
         if (alertTgl1 == 0) {			
-            document.getElementById('tanggal-alert').innerHTML = "Tanggalnya diisi dulu gaes";
+            document.getElementById('tanggal-alert').innerHTML = "Tanggalnya Harus diisi gaes!!";
             //return false;
         }else{
             document.getElementById('tanggal-alert').innerHTML = "";
