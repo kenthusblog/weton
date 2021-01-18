@@ -81,7 +81,7 @@ function weton(x){
 
 
     if(pegat.some(item => item == x)){
-        return [pegat[8], pegat[9], "FFC4C8"];
+        return [pegat[7], pegat[7], "FFC4C8"];
     }else if(ratu.some(item => item == x)){
         return [ratu[4], ratu[5], "C6FFC2"];
     }else if(jodo.some(item => item == x)){
