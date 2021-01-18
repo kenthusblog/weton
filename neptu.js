@@ -151,7 +151,7 @@ $('#submit').on('click', function () {
 <i class='separate'></i>    
 
 <br/>
-`+final[1]+`
+`+total[0]+`
 
            </div> 
 
