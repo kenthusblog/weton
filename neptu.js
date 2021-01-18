@@ -81,7 +81,7 @@ function weton(x){
 
 
     if(pegat.some(item => item == x)){
-        return [pegat[9], pegat[9], "Hasil pegat, bahwa menurut hitungan weton jawa kemungkinan pasangan akan sering mendapatkan masalah di kemudian hari, bisa saja masalah ekonomi, kekuasaan, perselingkuhan hingga menyebabkan pasangan bercerai."'];
+        return [pegat[9], pegat[9], "hia"];
     }else if(ratu.some(item => item == x)){
         return [ratu[4], ratu[5], "C6FFC2"];
     }else if(jodo.some(item => item == x)){
