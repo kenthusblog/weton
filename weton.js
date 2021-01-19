@@ -181,9 +181,9 @@ $('#submit').on('click', function () {
 
 <div class='block-author'>
     <div class='block-img'>
-      <img class='lazy' alt='Author' data-src='https://1.bp.blogspot.com/-Ld-6of_XYds/X-14xmoL_5I/AAAAAAAAG9g/7JDrgd6VfSs16KchvJuxjZUqyPJOg3F6ACK4BGAYYCw/w80-h80-p-k-no-nu/98291304_622520161670624_396055890895044608_o.jpg' src='data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs='/>
+      <img class='lazy' alt='Author' data-src='https://1.bp.blogspot.com/-TJveDHmopf8/YAczjGBH28I/AAAAAAAAHts/Ypusd4262wgzQAzJySOLp_jrldMW2_enwCLcBGAsYHQ/s1134/blangkon.png' src='data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs='/>
     </div>
-    <div class='block-info'><span class='block-name'>Source Code by</span><span class='block-desc'><a href="https://www.facebook.com">kts aka Gaara</a> dibuat karena <strike>aku sayang kamu</strike> gabut</span>
+    <div class='block-info'><span class='block-name'>dikutip dari berbagai sumber</span><span class='block-desc'>Source Code by <a href="https://www.facebook.com">ME</a><br>dibuat karena <strike>aku sayang kamu</strike> gabut</span>
     </div>
   </div>
 
