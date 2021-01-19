@@ -178,10 +178,9 @@ $('#submit').on('click', function () {
 
                     <p><blockquote>
                          `+final[1]+`
-                      </div><div class='block-author'><span class='block-desc' align='right' style="font-size: 0.9em"><a href="https://www.panjinawangkung.com">panjinawangkung.com</a></span></p></div></blockquote>
+                      </div><p></p><div class='block-author'><span class='block-desc' align='left' style="font-size: 0.9em">Source Code by <a href="https://www.facebook.com">kts aka Gaara</a> dibuat karena <strike>aku sayang kamu</strike> gabut</span></p></div></blockquote>
                 </div>
-        </div>x
-    
+            
                      `);
                      
     $('#myModal').modal('show');
