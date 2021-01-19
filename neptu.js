@@ -63,25 +63,38 @@ function Hitung(x){
 }
 
 function weton(x){
-    var pegat = [7,'PEGAT','"Hasil pegat, bahwa menurut hitungan weton jawa kemungkinan pasangan akan sering mendapatkan masalah di kemudian hari, bisa saja masalah ekonomi, kekuasaan, perselingkuhan hingga menyebabkan pasangan bercerai."']
+    var pegat = [7,78,79,80,'Pendito Kang Lelaku','"Orang yang lahir pada neptu 7 memiliki sifat dan watak serta kepribadian yang sedikit pemalas, suka bepergian, suka ingkar janji dan juga kurang pintar dalam berkomunikasi. Hal ini menyebabkan lingkungan pergaulannya terbatas. Yang pasti ia merupakan sosok yang suka untuk bepergian kemana saja."']
 
-    var ratu = [2,11,20,29,'RATU','"Hasil Ratu, menurut hitungan weton jawa bisa dikatakan bahwa pasangan ini memang sudah jodohnya. Karena didalam kehidupan nanti keluarganya akan sangat dihargai dan disegani oleh tetangga maupun masyarakat sekitar. Bahkan banyak orang yang iri hati karena keharmonisannya dalam membina rumah tangga."']
+    var ratu = [8,88,89,90,'Lakune Geni','"Watak dan kepribadian orang dengan neptu 8 adalah orang yang mempunyai karakter pendedam, panas hati, gampang marah, sering bertengkar. Ia mempunyai emosi yang meledak ledak sehingga sering kali timbul permasalahan akibat dari emosi yang dikeluarkannya."']
 
-    var jodo = [3,12,21,30,'JODOH','"Hasil Jodoh, menurut hitungan weton jawa pasangan ini memang beneran cocok dan berjodoh. Karena dapat saling menerima baik kelebihan atau kekurangannya. Selain itu rumah tangganya dapat rukun sampai tua nanti."']
+    var jodo = [9,91,92,93,'Lakune Angin','"Watak dan kepribadian orang dengan neptu 9 adalah orang yang mempunyai karakter mudah untuk dipengaruhi orang lain dan sering terjadi mereka tidak memiliki pendirian hidup. Orang ini termasuk orang yang pendiam tetapi lincah. Salah satu hal terbaik menurut primbon jawa kuno orang yang memiliki neptu 9 kebal bila di guna guna."']
 
-    var topo = [4,13,22,31,'TOPO','"Hasil Topo, menurut hitungan jawa di gambarkan dalam membina rumah tangga nanti akan mengalami kesusahan di awal, tetapi akan bahagia di akhir nanti. Masalah ini bisa saja karena masalah ekonomi dan masih banyak lagi. Namun ketika sudah mempunyai anak dan cukup lama berumah tangga, di hari itulah kehidupanya akan menjadi sukses dan bahagia."']
+    var topo = [10,101,202,103,'Mbangun Teki','"Watak dan kepribadian orang dengan neptu 10 adalah merupakan orang yang suka memberikan nasehat kepada orang lain tetapi tidak menerima saran ataupun kritik orang lain. Ia juga merupakan orang yang cerdas dan tidak mudah tersinggung."']
 
-    var tinari = [5, 14, 23, 32,'TINARI','"Hasil Tinari, menurut hitungan weton jawanya berarti akan menemukan kebehagaiaan dimasa nanti. Selain itu gampang dalam mencari rezeki dan sering mendapatkan keberuntungan."']
+    var tinari = [11, 114, 123, 132,'Lakune Setan','"Watak dan kepribadian orang dengan neptu 11 adalah mereka tipikal orang yang tidak bisa menjadi seorang pemimpin dikarenakan tidak memiliki jiwa kepemimpinan dan juga orang yang plin plan. Walaupun dia terlihat sebagai sosok yang pemberani."']
 
-    var padu = [6, 15, 24, 33,'PADU','"Hasil Padu, menurut hitungan weton jawa digambarkan dalam berumah tangganya nanti akan sering mengalami sebuah pertengkaran. Namun tidak sampai mengarah ke seuah perceraian. Masalah pertengkaran ini digambarkan hanya masalah yang sifatnya cukup sepele."']
+    var padu = [12, 215, 224, 233,'Lakune Kembang','"Watak dan kepribadian orang dengan neptu 12  adalah ia sosok yang suka mengalah terhadap orang lain dan tipikal orang yang cinta damai. Dia penurut, rajin, pintar dan juga sayang pada teman temannya. Orang dengan neptu 12 di ramalkan akan sering kehilangan barang."']
 
-    var sujanan = [78, 16, 25, 34,'SUJANAN','"Hasil sujanan, menurut hitungan weton jawa digambarkan bahwa dalam berumah tangganya nanti akan mengalami sebuah pertengkaran, bisa saja kerana perselingkuhan yang terjadi yang di mulai dari pahak laki-laki atau si perempuan."']
+    var sujanan = [13, 378, 325, 334,'Lakune Lintang','"Watak dan kepribadian orang dengan neptu 13  adalah orang yang memiliki pesona yang sangat baik, lemah lembut, berjiwa petualang, ia adalah orang yang memiliki karisma yang tinggi tetapi tidak bisa memimpin."']
 
-    var pesthi = [8, 17, 26, 35,'PESTHI','"Hasil Pesthi, menurut hitungan weton jawa digambarkan bahwa dalam berumah tangganya nanti akan selalu rukun, tenteram, adem ayem hingga tua nanti. Meskipun ada masalah, namun tidak akan bisa merusak keharmonisan keluarganya."']
+    var pesthi = [14, 217, 226, 235,'Lakune Mbulan','"Watak dan kepribadian orang dengan neptu 14 adalah orang yang dapat menerima apa saja, ia adalah sosok yang berbakti, cerdas, mudah bergaul dan ia merupakan kunci jawaban teman teman ataupun sahabatnya dalam menyelesaikan sebuah permasalahan"']
 
+    var pesthi1 = [15, 517, 526, 535,'Lakune Geni','"Watak dan kepribadian orang dengan neptu 15 adalah orang yang pendendam dan memiliki amarah yang besar. Ia tidak suka diperintah karena hatinya tegas. Dalam hidupnya ia akan sering berselisih dengan orang orang yang berada di dekatnya."']
+    
+    var pesthi2 = [16, 617, 626, 635,'Lakune Bumi','"Watak dan kepribadian orang dengan neptu 16 adalah orang yang mudah diatur dan suka mengayomi. Ia adalah sosok yang cocok untuk menjadi seorang pemimpin yang baik. Sopan santun, pemaaf dan tidak mudah marah membuat dia memiliki banyak teman. Tetapi hati hati jika sampai ia marah maka akan mengerikan sekali."']
+    
+    var pesthi3 = [17, 107, 206, 205,'Lakune Gunung','"Watak dan kepribadian orang dengan neptu 17 adalah orang yang moody, pendiam, lambat dan terlalu baik. Apabila seseorang bisa mengambil hatinya maka ia akan mudah diatur."']
+    
+    var pesthi4 = [18, 817, 826, 935,'Lakune Paripurna','"Watak dan kepribadian orang dengan neptu 18 adalah orang yang suka akan kekuasaan, setiap permintaannya harus dipenuhi. Ia juga jadi sosok yang mudah panas tetapi mudah mengalah jika amarahnya redah."']
+    
+    
+    
+    
+    
+    
 
     if(pegat.some(item => item == x)){
-        return [pegat[9], pegat[9], "hia"];
+        return [pegat[4], pegat[5], "C6FFC2"];
     }else if(ratu.some(item => item == x)){
         return [ratu[4], ratu[5], "C6FFC2"];
     }else if(jodo.some(item => item == x)){
@@ -96,6 +109,14 @@ function weton(x){
         return [sujanan[4], sujanan[5], "FFC4C8"];
     }else if(pesthi.some(item => item == x)){
         return [pesthi[4], pesthi[5], "C6FFC2"];
+    }else if(pesthi1.some(item => item == x)){
+        return [pesthi1[4], pesthi1[5], "C6FFC2"];
+    }else if(pesthi2.some(item => item == x)){
+        return [pesthi2[4], pesthi2[5], "C6FFC2"];
+    }else if(pesthi3.some(item => item == x)){
+        return [pesthi3[4], pesthi3[5], "C6FFC2"];
+    }else if(pesthi4.some(item => item == x)){
+        return [pesthi4[4], pesthi4[5], "C6FFC2"];
     }
 }
 
@@ -135,10 +156,11 @@ $('#submit').on('click', function () {
     
     var layla = Hitung(tanggal1);
 
+  
     var total = layla[3];
     var final = weton(total)
-    
-    $("#result").append(`                    
+   
+       $("#result").append(`                    
     
 <div class='weton'>
                 Nama Kamu : <b>`+nama1+`</b><br/>
@@ -147,19 +169,13 @@ $('#submit').on('click', function () {
                 Pasaran : <b> `+layla[2]+` </b>  <br/>
                 Neptu  : <b>`+layla[3]+` </b> <br/>
            
-
 <i class='separate'></i>    
-
-<br/><b>
-`+final[3]+`</b>
-
+<br/><b>`+final[0]+`
+</b><br/>`+final[1]+`
            </div> 
-
-
-
                      `);
                      
     $('#myModal').modal('show');
-   
+  
 
 })
