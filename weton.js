@@ -174,12 +174,12 @@ $('#submit').on('click', function () {
   <div class='post-block'>Jadi <i>Neptu</i>  <b>`+layla[3]+`</b> dan <b>`+majnun[3]+`</b> <i>Wetonnya</i>  <b>`+total+`</b></div>    
                        
 
-<div class='weton1'><center><br><strong>`+final[0]+`  (`+total+`) </strong> </center>
+<div class='weton1'><center><strong>`+final[0]+`  (`+total+`) </strong> </center>
 
                     <p><blockquote>
                          `+final[1]+`
-                      </div><p></p><div class='block-author'><span class='block-desc' align='left' style="font-size: 0.9em">Source Code by <a href="https://www.facebook.com">kts aka Gaara</a> dibuat karena <strike>aku sayang kamu</strike> gabut</span></p></div></blockquote>
-                </div>
+                      <div class='block-author'><span class='block-desc' align='left' style="font-size: 1.0em">Source Code by <a href="https://www.facebook.com">kts aka Gaara</a> dibuat karena <strike>aku sayang kamu</strike> gabut</span></div></blockquote>
+                </div></div>
             
                      `);
                      
