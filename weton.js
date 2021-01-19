@@ -170,16 +170,17 @@ $('#submit').on('click', function () {
                 Neptu  : <b> `+majnun[3]+`  </b><br/>
 
 </tbody>
-</div><p></p>
+</div>
   <div class='post-block'>Jadi <i>Neptu</i>  <b>`+layla[3]+`</b> dan <b>`+majnun[3]+`</b> <i>Wetonnya</i>  <b>`+total+`</b></div>    
-            &nbsp &nbsp &nbsp
-                       <center><br><strong>`+final[0]+`  (`+total+`) </strong> </center>
+                       
+
+<div class='weton1'><center><br><strong>`+final[0]+`  (`+total+`) </strong> </center>
 
                     <p><blockquote>
                          `+final[1]+`
-                      <br/><div class='block-author'><span class='block-desc' align='right' style="font-size: 0.7em"><a href="https://www.panjinawangkung.com">panjinawangkung.com</a></span></p></div></blockquote>
+                      </div><div class='block-author'><span class='block-desc' align='right' style="font-size: 0.9em"><a href="https://www.panjinawangkung.com">panjinawangkung.com</a></span></p></div></blockquote>
                 </div>
-        </div>
+        </div>x
     
                      `);
                      
