@@ -181,7 +181,7 @@ $('#submit').on('click', function () {
 
 <div class='block-author'>
     <div class='block-img'>
-      <img class='lazy' alt='Author' data-src='Url_gambar_disini' src='data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs='/>
+      <img class='lazy' alt='Author' data-src='https://1.bp.blogspot.com/-Ld-6of_XYds/X-14xmoL_5I/AAAAAAAAG9g/7JDrgd6VfSs16KchvJuxjZUqyPJOg3F6ACK4BGAYYCw/w80-h80-p-k-no-nu/98291304_622520161670624_396055890895044608_o.jpg' src='data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs='/>
     </div>
     <div class='block-info'><span class='block-name'>Source Code by</span><span class='block-desc'><a href="https://www.facebook.com">kts aka Gaara</a> dibuat karena <strike>aku sayang kamu</strike> gabut</span>
     </div>
