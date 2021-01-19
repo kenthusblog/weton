@@ -172,7 +172,8 @@ $('#submit').on('click', function () {
 <i class='separate'></i>    
 <br/><center><b>`+final[0]+`
 </b></center><br/>`+final[1]+`
-           <p align='right'></p><a href="https://www.panjinawangkung.com">panjinawangkung.com</a></div> 
+           <div class='block-author'><span class='block-desc' align='right' style="font-size: 0.7em"><a href="https://www.panjinawangkung.com">panjinawangkung.com</a></span></p></div></blockquote>
+                </div></div> 
                      `);
                      
     $('#myModal').modal('show');
