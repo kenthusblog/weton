@@ -174,11 +174,21 @@ $('#submit').on('click', function () {
   <div class='post-block'>Jadi <i>Neptu</i>  <b>`+layla[3]+`</b> dan <b>`+majnun[3]+`</b> <i>Wetonnya</i>  <b>`+total+`</b></div>    
                        
 
-<div class='weton1'><center><strong>`+final[0]+`  (`+total+`) </strong> </center><br/>
+<div class='weton1'><center><strong>`+final[0]+`  (`+total+`) </strong> </center>
 
                     <blockquote>
-                         `+final[1]+`</blockquote>
-                      <div class='block-author'><span class='block-desc' align='left' style="font-size: 1.0em">Source Code by <a href="https://www.facebook.com">kts aka Gaara</a> dibuat karena <strike>aku sayang kamu</strike> gabut</span></div>
+                         `+final[1]+`
+
+<div class='block-author'>
+    <div class='block-img'>
+      <img class='lazy' alt='Author' data-src='Url_gambar_disini' src='data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs='/>
+    </div>
+    <div class='block-info'><span class='block-name'>Source Code by</span><span class='block-desc'><a href="https://www.facebook.com">kts aka Gaara</a> dibuat karena <strike>aku sayang kamu</strike> gabut</span>
+    </div>
+  </div>
+
+
+</blockquote>
                 </div></div>
             
                      `);
