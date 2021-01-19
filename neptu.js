@@ -170,9 +170,9 @@ $('#submit').on('click', function () {
                 Neptu  : <b>`+layla[3]+` </b> <br/>
            
 <i class='separate'></i>    
-<br/><b>`+final[0]+`
-</b><br/>`+final[1]+`
-           </div> 
+<br/><center><b>`+final[0]+`
+</b></center><br/>`+final[1]+`
+           <p align='right'></p><a href="https://www.panjinawangkung.com">panjinawangkung.com</a></div> 
                      `);
                      
     $('#myModal').modal('show');
