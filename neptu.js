@@ -170,9 +170,10 @@ $('#submit').on('click', function () {
                 Neptu  : <b>`+layla[3]+` </b> <br/>
            
 <i class='separate'></i>    
-<br/><center><b>`+final[0]+`
-</b></center><br/>`+final[1]+`
-           <div class='block-author'><span class='block-desc' align='right' style="font-size: 0.7em"><a href="https://www.panjinawangkung.com">panjinawangkung.com</a></span></p></div></blockquote>
+<br/><center><b>`+final[0]+` (`+layla[3]+`)</b></center><br/>
+<blockquote>
+`+final[1]+`
+           <div class='block-author'><span class='block-desc' align='right' style="font-size: 1.0em">Sourde Code By <a href="https://www.facebook.com/Agus.aka.Gaara">KTS aka GAARA</a></span></p></div></blockquote>
                 </div></div> 
                      `);
                      
