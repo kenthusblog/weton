@@ -173,7 +173,7 @@ $('#submit').on('click', function () {
 <br/><center><b>`+final[0]+` (`+layla[3]+`)</b></center><br/>
 <blockquote>
 `+final[1]+`
-           <div class='block-author'><span class='block-desc' align='right' style="font-size: 1.0em">Sourde Code By <a href="https://www.facebook.com/Agus.aka.Gaara">KTS aka GAARA</a></span></p></div></blockquote>
+           <div class='block-author'><span class='block-desc' align='right' style="font-size: 1.0em">Sourde Code By <a href="https://www.facebook.com/Agus.aka.Gaara">KTS aka GAARA</a> dibuat dengan <strike><font color='red'>Penuh Cinta</font></strike> Kebagutan.</span></p></div></blockquote>
                 </div></div> 
                      `);
                      
