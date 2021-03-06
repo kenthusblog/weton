@@ -171,7 +171,7 @@ $('#submit').on('click', function () {
 
 </tbody>
 </div>
-  <div class='post-block'>Jadi <i>Neptu</i>  <b>`+layla[3]+`</b> dan <b>`+majnun[3]+`</b> <i>Wetonnya</i>  <b>`+total+`</b></div>    
+  <div class='weton'>Jadi <i>Neptu</i>  <b>`+layla[3]+`</b> dan <b>`+majnun[3]+`</b> <i>Wetonnya</i>  <b>`+total+`</b></div>    
                        
 
 <div class='weton'><center><font color='red'><strong>`+final[0]+`  (`+total+`) </strong></font> </center>
