@@ -189,7 +189,7 @@ $('#submit').on('click', function () {
 
 
 </blockquote>
-                </div></div>
+                </div>
             
                      `);
                      
