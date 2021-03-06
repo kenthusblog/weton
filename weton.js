@@ -170,8 +170,7 @@ $('#submit').on('click', function () {
                 Neptu  : <b> `+majnun[3]+`  </b><br/>
 
 </tbody>
-</div>
-  <div class='weton'>Jadi <i>Neptu</i>  <b>`+layla[3]+`</b> dan <b>`+majnun[3]+`</b> <i>Wetonnya</i>  <b>`+total+`</b></div>    
+  Jadi <i>Neptu</i>  <b>`+layla[3]+`</b> dan <b>`+majnun[3]+`</b> <i>Wetonnya</i>  <b>`+total+`</b></div>    
                        
 
 <div class='weton'><center><font color='red'><strong>`+final[0]+`  (`+total+`) </strong></font> </center>
@@ -183,7 +182,7 @@ $('#submit').on('click', function () {
     <div class='block-img'>
       <img class='lazy' alt='Author' data-src='https://1.bp.blogspot.com/-TJveDHmopf8/YAczjGBH28I/AAAAAAAAHts/Ypusd4262wgzQAzJySOLp_jrldMW2_enwCLcBGAsYHQ/s1134/blangkon.png' src='data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs='/>
     </div>
-    <div class='block-info'><span class='block-name'>dikutip dari berbagai sumber</span><span class='block-desc'>Source Code by <a href="https://www.facebook.com">ME</a><br>dibuat karena <strike>aku sayang kamu</strike> gabut</span>
+    <div class='block-info'><span class='block-name'>dikutip dari berbagai sumber</span><span class='block-desc'>Source Code by <a href="https://www.panjinawangkung.com">PANJINAWANGKUNG</a></span>
     </div>
   </div>
 
