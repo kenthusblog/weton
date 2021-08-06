@@ -167,7 +167,7 @@ $('#submit').on('click', function () {
                 Neptu Weton  &nbsp;          : <b>`+layla[3]+` </b><br/>
            
 <i class='separate'></i>    
-<center><p class='note'><h3>`+final[0]+` (`+layla[3]+`)</h3></p></center>
+<center><div class='note'><h3>`+final[0]+` (`+layla[3]+`)</h3></div></center>
 <blockquote>
 `+final[1]+`
 
