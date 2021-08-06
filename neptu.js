@@ -163,11 +163,11 @@ $('#submit').on('click', function () {
        $("#result").append(`                    
     
 <div class='weton'>
-                Nama Kamu : <b>`+nama1+`</b><br/>
+                Nama Kamu     : <b>`+nama1+`</b><br/>
                 Tanggal Lahir : <b>`+layla[0][0]+` `+layla[0][1]+` `+layla[0][2]+` </b><br/>
-                Hari : <b>`+layla[1]+` </b><br/>
-                Pasaran : <b> `+layla[2]+` </b><br/>
-                Neptu Weton : <b>`+layla[3]+` </b> <br/>
+                Hari          : <b>`+layla[1]+` </b><br/>
+                Pasaran       : <b> `+layla[2]+` </b><br/>
+                Neptu Weton   : <b>`+layla[3]+` </b> <br/>
            
 <i class='separate'></i>    
 <br/><div class="card-content"><center><b>`+final[0]+` (`+layla[3]+`)</b></center></div><br/>
