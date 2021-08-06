@@ -51,7 +51,7 @@ function Hitung(x){
     // Pasaran
     var xpasaran = jumlahHari % 5;
 
-    var day = ["Kamis", "Jum'at","Sabtu","Minggu","Senin","Selasa","Rabu","Kamis"]
+    var day = ["Kamis (8)", "Jum'at (6)","Sabtu (9)","Minggu (5)","Senin (4)","Selasa (3)","Rabu (7)","Kamis (8)"]
     var pasaran = ["Kliwon","Legi","Pahing","Pon","Wage","Kliwon"]
 
     var ankday = [8,6,9,5,4,3,7,8]
@@ -166,7 +166,7 @@ $('#submit').on('click', function () {
                 Nama Kamu : <b>`+nama1+`</b><br/>
                 Tanggal Lahir : <b>`+layla[0][0]+` `+layla[0][1]+` `+layla[0][2]+` </b><br/>
                 Hari : <b>`+layla[1]+` </b><br/>
-                Pasaran : <b> `+layla[2]+` </b> (`+final[2]+`)  <br/>
+                Pasaran : <b> `+layla[2]+` </b><br/>
                 Neptu  : <b>`+layla[3]+` </b> <br/>
            
 <i class='separate'></i>    
