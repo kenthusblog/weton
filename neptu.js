@@ -167,7 +167,7 @@ $('#submit').on('click', function () {
                 Tanggal Lahir &nbsp;                         : <b>`+layla[0][0]+` `+layla[0][1]+` `+layla[0][2]+` </b><br/>
                 Hari   &nbsp;   &nbsp; &nbsp; &nbsp;  &nbsp; : <b>`+layla[1]+` </b><br/>
                 Pasaran &nbsp; &nbsp;  &nbsp;                : <b> `+layla[2]+` </b><br/>
-                Neptu Weton  &nbsp; &nbsp;  &nbsp;           : <b>`+layla[3]+` </b> <br/>
+                Neptu Weton  &nbsp; &nbsp;            : <b>`+layla[3]+` </b> <br/>
            
 <i class='separate'></i>    
 <br/><div class="card-content"><center><b>`+final[0]+` (`+layla[3]+`)</b></center></div><br/>
