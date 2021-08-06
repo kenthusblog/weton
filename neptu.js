@@ -170,7 +170,7 @@ $('#submit').on('click', function () {
                 Neptu  : <b>`+layla[3]+` </b> <br/>
            
 <i class='separate'></i>    
-<br/><center><b>`+final[0]+` (`+layla[3]+`)</b></center><br/>
+<br/><div class="card-content"><center><b>`+final[0]+` (`+layla[3]+`)</b></center></div><br/>
 <blockquote>
 `+final[1]+`
 
@@ -178,7 +178,7 @@ $('#submit').on('click', function () {
     <div class='block-img'>
       <img class='lazy' alt='Author' data-src='https://1.bp.blogspot.com/-TJveDHmopf8/YAczjGBH28I/AAAAAAAAHts/Ypusd4262wgzQAzJySOLp_jrldMW2_enwCLcBGAsYHQ/s1134/blangkon.png' src='data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs='/>
     </div>
-    <div class='block-info'><span class='block-name'>dikutip dari berbagai sumber</span><span class='block-desc'>Source Code by <a href="https://www.panjinawangkung.com">KENTHUS</a></span>
+    <div class='block-info'><span class='block-name'>Dikutip dari berbagai sumber</span><span class='block-desc'>Source Code by <a href="https://www.panjinawangkung.com">KENTHUS</a></span>
     </div>
   </div>
 
