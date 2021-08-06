@@ -171,7 +171,7 @@ $('#submit').on('click', function () {
 <blockquote>
 `+final[1]+`
 
-<div class='block-author'>
+<div class='block-author' align='right'>
     <div class='block-img'>
       <img class='lazy' alt='Author' data-src='https://1.bp.blogspot.com/-TJveDHmopf8/YAczjGBH28I/AAAAAAAAHts/Ypusd4262wgzQAzJySOLp_jrldMW2_enwCLcBGAsYHQ/s1134/blangkon.png' src='data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs='/>
     </div>
