@@ -52,7 +52,7 @@ function Hitung(x){
     var xpasaran = jumlahHari % 5;
 
     var day = ["Kamis (8)", "Jum'at (6)","Sabtu (9)","Minggu (5)","Senin (4)","Selasa (3)","Rabu (7)","Kamis (8)"]
-    var pasaran = ["Kliwon","Legi","Pahing","Pon","Wage","Kliwon"]
+    var pasaran = ["Kliwon (8)","Legi (5)","Pahing (9)","Pon (7)","Wage (4)","Kliwon (8)"]
 
     var ankday = [8,6,9,5,4,3,7,8]
     var ankpasaran = [8,5,9,7,4,8]
