@@ -88,10 +88,7 @@ function weton(x){
     var pesthi4 = [18, 817, 826, 935,'Lakune Paripurna','"Watak dan kepribadian orang dengan neptu 18 adalah orang yang suka akan kekuasaan, setiap permintaannya harus dipenuhi. Ia juga jadi sosok yang mudah panas tetapi mudah mengalah jika amarahnya redah."']
     
     
-    
-    
-    
-    
+         
 
     if(pegat.some(item => item == x)){
         return [pegat[4], pegat[5], "C6FFC2"];
