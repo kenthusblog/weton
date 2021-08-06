@@ -182,7 +182,7 @@ $('#submit').on('click', function () {
     <div class='block-img'>
       <img class='lazy' alt='Author' data-src='https://1.bp.blogspot.com/-TJveDHmopf8/YAczjGBH28I/AAAAAAAAHts/Ypusd4262wgzQAzJySOLp_jrldMW2_enwCLcBGAsYHQ/s1134/blangkon.png' src='data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs='/>
     </div>
-    <div class='block-info'><span class='block-name'>dikutip dari berbagai sumber</span><span class='block-desc'>Source Code by <a href="https://www.panjinawangkung.com">PANJINAWANGKUNG</a></span>
+    <div class='block-info'><span class='block-name'>dikutip dari berbagai sumber - Source Code by <a href="https://www.panjinawangkung.com">PANJINAWANGKUNG</a></span>
     </div>
   </div>
 
