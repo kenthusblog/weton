@@ -165,8 +165,8 @@ $('#submit').on('click', function () {
 <div class='weton'>
                 Nama Kamu &nbsp; &nbsp; : <b>`+nama1+`</b><br/>
                 Tanggal Lahir &nbsp;                         : <b>`+layla[0][0]+` `+layla[0][1]+` `+layla[0][2]+` </b><br/>
-                Hari   &nbsp;   &nbsp; &nbsp; &nbsp;  &nbsp; : <b>`+layla[1]+` </b><br/>
-                Pasaran &nbsp; &nbsp;  &nbsp;                : <b> `+layla[2]+` </b><br/>
+                Hari   &nbsp;   &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; : <b>`+layla[1]+` </b><br/>
+                Pasaran &nbsp; &nbsp;  &nbsp;    &nbsp;            : <b> `+layla[2]+` </b><br/>
                 Neptu Weton  &nbsp; &nbsp;            : <b>`+layla[3]+` </b> <br/>
            
 <i class='separate'></i>    
