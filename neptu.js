@@ -168,7 +168,7 @@ $('#submit').on('click', function () {
            
 <i class='separate'></i>    
 <center><div class='note'><strong>`+final[0]+` (`+layla[3]+`)</strong></div></center>
-<blockquote>
+<div class='note noteAlert'>
 `+final[1]+`
 
 <div class='block-author'>
@@ -185,10 +185,7 @@ $('#submit').on('click', function () {
     </span>
     </div>
   </div>
-  
-
-
-</blockquote>
+</div>
 </div></div> 
                      `);
                      
