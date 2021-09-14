@@ -185,8 +185,7 @@ $('#submit').on('click', function () {
     </span>
     </div>
   </div>
-</div>
-</div></div> 
+ 
                      `);
                      
     $('#myModal').modal('show');
