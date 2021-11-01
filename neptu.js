@@ -167,7 +167,7 @@ $('#submit').on('click', function () {
                 Neptu Weton&nbsp;    &nbsp;    : <b>`+layla[3]+` </b>
            
 <i class='separate'></i>    
-<center><div class='note noteAlert'><strong>`+final[0]+` (`+layla[3]+`)</strong></div></center>
+<center><div class='note noteAlert'><strong>`+final[0]+` (`+layla[3]+`)</strong></center></div>
 <div class='note'>
 `+final[1]+`
 
@@ -183,7 +183,7 @@ $('#submit').on('click', function () {
 
 
     </span>
-    </div></div>
+    </div>
   </div>
  
                      `);
