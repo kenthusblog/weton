@@ -121,12 +121,7 @@ $('#submit').on('click', function () {
      }
 
     //validasi tanggal
-    var alertTgl1 = $("#inputTanggal1").datepicker({
-        dateFormat: 'dd-mm-yy',
-        showAnim: 'slideDown',
-        changeMonth: true,
-        changeYear: true
-    });
+    var alertTgl1 = $("#inputTanggal1").val().leght;
     var alertTgl2 = $("#inputTanggal2").val().length;
         if (alertTgl1 == 0) {			
             document.getElementById('tanggal-alert').innerHTML = "Tanggalnya diisi dulu gaes";
