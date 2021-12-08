@@ -105,12 +105,7 @@ $('#submit').on('click', function () {
     $("#result").html("");
 
      //validasi nama
-     var nama = $("#inputNama1").datepicker({
-        dateFormat: 'dd-mm-yy',
-        showAnim: 'slideDown',
-        changeMonth: true,
-        changeYear: true
-    });
+     var nama = $("#inputNama1").val().legth;
      var nama2 = $("#inputNama2").val().length;
      if (nama == 0) {			
          document.getElementById('nama-alert').innerHTML = "Nama tidak boleh kosong :)";
@@ -126,7 +121,12 @@ $('#submit').on('click', function () {
      }
 
     //validasi tanggal
-    var alertTgl1 = $("#inputTanggal1").val().length;
+    var alertTgl1 = $("#inputTanggal1").datepicker({
+        dateFormat: 'dd-mm-yy',
+        showAnim: 'slideDown',
+        changeMonth: true,
+        changeYear: true
+    });
     var alertTgl2 = $("#inputTanggal2").val().length;
         if (alertTgl1 == 0) {			
             document.getElementById('tanggal-alert').innerHTML = "Tanggalnya diisi dulu gaes";
