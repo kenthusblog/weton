@@ -105,7 +105,12 @@ $('#submit').on('click', function () {
     $("#result").html("");
 
      //validasi nama
-     var nama = $("#inputNama1").val().length;
+     var nama = $("#inputNama1").datepicker({
+        dateFormat: 'dd-mm-yy',
+        showAnim: 'slideDown',
+        changeMonth: true,
+        changeYear: true
+    });
      var nama2 = $("#inputNama2").val().length;
      if (nama == 0) {			
          document.getElementById('nama-alert').innerHTML = "Nama tidak boleh kosong :)";
