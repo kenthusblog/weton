@@ -136,6 +136,16 @@ $('#submit').on('click', function () {
             document.getElementById('tanggal2-alert').innerHTML = "";
         }
    $("#result").html("");
+	
+	
+	$( "#yourDate" ).datepicker({
+        dateFormat: 'dd-mm-yy',
+        showAnim: 'slideDown',
+        changeMonth: true,
+        changeYear: true
+    });
+	
+	
 
     var nama1 = $('#inputNama1').val();
     var nama2 = $('#inputNama2').val();	
