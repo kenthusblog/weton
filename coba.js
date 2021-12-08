@@ -138,14 +138,6 @@ $('#submit').on('click', function () {
    $("#result").html("");
 	
 	
-	$( "#yourDate" ).datepicker({
-        dateFormat: 'dd-mm-yy',
-        showAnim: 'slideDown',
-        changeMonth: true,
-        changeYear: true
-    });
-	
-	
 
     var nama1 = $('#inputNama1').val();
     var nama2 = $('#inputNama2').val();	
