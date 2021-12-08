@@ -1,50 +1,113 @@
+<style type="text/css">
+body {
+    font-family: 'Quicksand', sans-serif;
+    color: #3B4C52;
+}
+
+.ikon {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+}
+
+.btn-hitung, .btn-hitung:hover {
+    background-color:#FF4F5A;
+    border-color: #FF4F5A;
+}
+
+.github {
+    width: 15px;
+    height: auto;
+}
+
+#hasil {
+    color: #3B4C52;
+    border-radius: 5px;
+}
+  
+  
+  
+</style>
+
+    <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+  <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>z
+ 
+  
+  
+ <div class="separator" style="clear: both;"><a href="https://1.bp.blogspot.com/-6gaBkOZAl4k/YACPx9FQMgI/AAAAAAAAHe8/afA3waPYeQcMSRXgcj9vQ99Pzxb-a9QlgCLcBGAsYHQ/s0/weton.jpg" style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" data-original-height="533" data-original-width="800" src="https://1.bp.blogspot.com/-6gaBkOZAl4k/YACPx9FQMgI/AAAAAAAAHe8/afA3waPYeQcMSRXgcj9vQ99Pzxb-a9QlgCLcBGAsYHQ/s0/weton.jpg"/></a></div><br><br>
+ 
+ 
+
+
 <div class="container-md mt-5 col-11">
+  <h1><center>Wetonmu Ora Pas Cintamu Kandas !</center></h1>
+    <img alt="" class="ikon" src="head-min.jpg" srcset="" />
     <div class="card mb-3">
-        <div class="card-body" >
-            <form>
+        <div class="card-body">
+            
+          
+          <div class="form-control">
+          <form>
                 <div class="mb-1 row">
-                    <label for="nama" class="col-sm-2 col-form-label">Nama Kamu</label>
+                    <label class="col-sm-2 col-form-label" for="nama">Nama Kamu</label>
                     <div class="col-sm-10">
-                        <input type="text" class="form-control" id="inputNama1">
-                        <small id="nama-alert" class="form-text text-danger"></small>
-                    </div>
-              </div><p></p>
-                <div class="mb-1 row">
-                    <label for="inputNama" class="col-sm-2 col-form-label">Tanggal Lahir</label>
-                    <div class="col-sm-10">
-                        <input type="date" class="form-control" id="inputTanggal1">
-                        <small id="tanggal-alert" class="form-text text-danger"></small>
+                        <input class="form-control" id="inputNama1" type="text" />
+                        <small class="form-text text-danger" id="nama-alert"></small>
                     </div>
                 </div>
-              <p></p>
-                <input type="button" value="Hitung" id="submit" class="btn btn-primary mt-2 col-12 btn-hitung">                
+                <div class="mb-1 row">
+                    <label class="col-sm-2 col-form-label" for="inputNama">Tanggal Lahir</label>
+                  <div class="mb-1 row">
+                        <input class="form-control" id="inputTanggal1" type="date"/>
+                        <small class="form-text text-danger" id="tanggal-alert"></small>
+                    </div>
+                </div>
+            
+            
+            
+                <div class="mb-1 row">
+                    <label class="col-sm-2 col-form-label" for="nama">Nama Pasangan</label>
+                    <div class="col-sm-10">
+                        <input class="form-control" id="inputNama2" type="text" />
+                        <small class="form-text text-danger" id="nama2-alert"></small>
+                    </div>
+                </div>
+                <div class="mb-1 row">
+                    <label class="col-sm-2 col-form-label" for="inputNama">Tanggal Lahir</label>
+                    <div class="col-sm-10">
+                        <input class="form-control" id="inputTanggal2" type="date" />
+                        <small class="form-text text-danger" id="tanggal2-alert"></small>
+                    </div>
+            </div><p></p>
+                <input class="btn btn-primary mt-2 col-12 btn-hitung" id="submit" type="button" value="Hitung" /><br /><br />
+                
             </form>
         </div>
-    </div><br>
-  
-   Sulit melompat ke tanggal lahirmu? <a href="https://www.panjinawangkung.com/p/cara-menggunakan-datepicker-pada-form.html" target="_blank">Lihat Caranya Klik disini !</a>.
-
+    </div>
+      
+      
+      
 <!-- Modal -->
-<div class="modal fade" data-bs-backdrop="static" data-bs-keyboard="false" id="myModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-  <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable">
-    <div class="modal-content">
-      <div class="modal-header">
-        <h5 class="modal-title" id="exampleModalLabel">HASIL</h5>
-        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+<div aria-hidden="true" aria-labelledby="exampleModalLabel" class="modal fade" data-bs-backdrop="static" data-bs-keyboard="false" id="myModal" tabindex="-1">
+  
+        <h5>Hasil</h5>
+        <button aria-label="Close" class="btn-close" data-bs-dismiss="modal" type="button"></button>
       </div>
-      <div class="modal-body">
+      <div class="body"><tr>
         <div id="result">
             <div class="card">
-            </div>
-        </div>
+              </div>
+        </div></tr>
       </div>
-
-
-
-<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" 
-        integrity="sha256-4+XzXVhsDmqanXGHaHvgh1gMQKX40OUvDEBTu8JcmNs=" 
-        crossorigin="anonymous">
+      <div class="modal-footer">
+      </div>
+  </div>
+<br />
+  
+  <div class="form-text" id="emailHelp"><b>Disclaimer!</b> Jangan dibuat menjadi patokan dalam kehidupan sehari-hari yhaaa. Semuanya kembali ke kepercayaan masing-masing. </div>
+    
+</div>
+<script crossorigin="anonymous" integrity="sha256-4+XzXVhsDmqanXGHaHvgh1gMQKX40OUvDEBTu8JcmNs=" src="https://code.jquery.com/jquery-3.5.1.slim.min.js">
 </script>
-<script src="/neptu.js"></script>
-      
-
+<script src="/weton.js"></script>  
