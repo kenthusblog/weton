@@ -149,9 +149,9 @@ $('#submit').on('click', function () {
    
        $("#result").append(`                    
     
-<div class='weton' font color='black'>
+<div class='note' font color='black'>
                 
-                Kamu Lahir Tanggal <b>`+layla[0][0]+` (hari <b>`+layla[1]+` </b>), Bulan `+layla[0][1]+` Tahun `+layla[0][2]+` </b><br/>
+                Kamu Lahir Tanggal <b>`+layla[0][0]+` </b>(hari <b>`+layla[0]+` </b>), Bulan <b>`+layla[0][1]+` Tahun <b>`+layla[0][2]+` </b><br/>
                 Hari &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: <b>`+layla[1]+` </b><br/>
                 Pasaran &nbsp; &nbsp;  &nbsp;    &nbsp;  &nbsp;   &nbsp;    : <b> `+layla[2]+` </b><br/>
                 Neptu Weton&nbsp;    &nbsp;    : <b>`+layla[3]+` </b></div>
