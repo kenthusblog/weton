@@ -160,8 +160,8 @@ $('#submit').on('click', function () {
        $("#result").append(`                    
     
 <div class='weton'>
-                Nama Kamu &nbsp; &nbsp; : <b>`+nama1+`</b><br/>
-                Tanggal Lahir &nbsp;                         : <b>`+layla[0][0]+` `+layla[0][1]+` `+layla[0][2]+` </b><br/>
+                
+                Tangal lahir kamu <b>`+layla[0][0]+` `+layla[0][1]+` `+layla[0][2]+` </b><br/>
                 Hari &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: <b>`+layla[1]+` </b><br/>
                 Pasaran &nbsp; &nbsp;  &nbsp;    &nbsp;  &nbsp;   &nbsp;    : <b> `+layla[2]+` </b><br/>
                 Neptu Weton&nbsp;    &nbsp;    : <b>`+layla[3]+` </b></div>
