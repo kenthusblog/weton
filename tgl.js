@@ -151,7 +151,7 @@ $('#submit').on('click', function () {
     
 <div class='note' font color='black'>
                 
-                Kamu Lahir Tanggal  <b>`+layla[0][0]+` </b>(hari <b>`+layla[0][4]+`</b>), Bulan <b>`+layla[0][1]+` </b>Tahun <b>`+layla[0][2]+` </b><br/>
+                Kamu Lahir Tanggal  <b>`+layla[0][0]+` </b>(hari <b>`+layla[1][0]+`</b>), Bulan <b>`+layla[0][1]+` </b>Tahun <b>`+layla[0][2]+` </b><br/>
                 Hari &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: <b>`+layla[1]+` </b><br/>
                 Pasaran &nbsp; &nbsp;  &nbsp;    &nbsp;  &nbsp;   &nbsp;    : <b> `+layla[2]+` </b><br/>
                 Neptu Weton&nbsp;    &nbsp;    : <b>`+layla[3]+` </b></div>
