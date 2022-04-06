@@ -108,29 +108,22 @@ $('#submit').on('click', function () {
 
     //validasi tanggal
     var alertTgl1 = $("#inputTanggal1").val().length;
-    var alertTgl2 = $("#inputTanggal2").val().length;
+    
         if (alertTgl1 == 0) {			
             document.getElementById('tanggal-alert').innerHTML = "Tanggalnya diisi dulu gaes";
             //return false;
         }else{
             document.getElementById('tanggal-alert').innerHTML = "";
         }
-        if (alertTgl2 == 0) {			
-            document.getElementById('tanggal2-alert').innerHTML = "Tanggalnya diisi dulu gaes";
-            //return false;
-        }else{
-            document.getElementById('tanggal2-alert').innerHTML = "";
-        }
+        
    $("#result").html("");
 
     
 
     var tanggal1 = $('#inputTanggal1').val();
-    var tanggal2 = $('#inputTanggal2').val();
     
     var layla = Hitung(tanggal1);
 
-    var majnun = Hitung(tanggal2);
     
     
 	
