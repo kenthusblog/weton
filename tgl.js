@@ -123,16 +123,7 @@ function weton(x){
 $('#submit').on('click', function () {
     $("#result").html("");
 
-     //validasi nama
-     var nama = $("#inputNama1").val().length;
-
-	if (nama == 0) {			
-         document.getElementById('nama-alert').innerHTML = "Nama Jangan dikosongin dong Broo!! :)";
-         //return false;
-     }else{
-         document.getElementById('nama-alert').innerHTML = "";
-     }
-     
+       
      
 
     //validasi tanggal
@@ -147,8 +138,7 @@ $('#submit').on('click', function () {
 	
    $("#result").html("");
 
-    var nama1 = $('#inputNama1').val();
-
+   
     var tanggal1 = $('#inputTanggal1').val();
     
     var layla = Hitung(tanggal1);
