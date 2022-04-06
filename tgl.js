@@ -127,7 +127,7 @@ $('#submit').on('click', function () {
     
     
 	
-    var total = layla[3]+majnun[3];
+    
     var final = weton(total)
 
     $("#result").append(`                    
@@ -142,9 +142,8 @@ $('#submit').on('click', function () {
             
                 
 </tbody>
-<div class="card-content">  Jadi <i>Neptu</i>  <b>`+layla[3]+`</b> dan <b>`+majnun[3]+`</b> <i>Wetonnya</i>  <b>`+total+`</b></div></div>    
                        
-<div class='note noteAlert'><center><font color='red'><h3>`+final[0]+`  (`+total+`) </h3></font> </center></div>
+<div class='note noteAlert'><center><font color='red'><h3>`+final[0]+`  </h3></font> </center></div>
                     <div class='note'>
 `+final[1]+`
 <div class='block-author'>
