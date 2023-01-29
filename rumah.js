@@ -261,7 +261,7 @@ function modalx(x) {
 }
 
 function rmlk(e) {
-    if ($("#sc").length < 1 || $("#sc").text() !== "kts") {
+    if ($("#sc").length < 1 || $("#sc").text() !== "Made with ❤️ kenthus") {
         alert("Something wrong!");
         return !1
     }
