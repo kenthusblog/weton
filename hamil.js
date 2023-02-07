@@ -109,3 +109,8 @@ function dispDate(dateObj)
 var month = new Array("Januari", "Februari", "Maret", "April", "Mei", "Juni", "Juli", "Agustus", "September", "Oktober", "November", "Desember");
 return("" + dateObj.getDate() + " " + month[dateObj.getMonth()] + " " + dateObj.getFullYear()); 
 }
+
+ if ($("#sc").length < 1 || $("#sc").text() !== "made with ❤️ kenthus") {
+        alert("Something wrong!");
+        return !1
+    }
