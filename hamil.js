@@ -111,9 +111,7 @@ return("" + dateObj.getDate() + " " + month[dateObj.getMonth()] + " " + dateObj.
 }
 
  function rmlk(e) {
-    if ($("#sc").length < 1 || $("#sc").text() !== "Made With ❤️ Kenthus
-
-Read more: https://www.panggul.my.id/2023/02/kalkulator-menghitung-hari-perkiraan.html?cycle=28") {
+    if ($("#sc").length < 1 || $("#sc").text() !== "Made With ❤️ Kenthus"{
         alert("Something wrong!");
         return !1
     }
