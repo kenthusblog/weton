@@ -110,7 +110,10 @@ var month = new Array("Januari", "Februari", "Maret", "April", "Mei", "Juni", "J
 return("" + dateObj.getDate() + " " + month[dateObj.getMonth()] + " " + dateObj.getFullYear()); 
 }
 
- if ($("#sc").length < 1 || $("#sc").text() !== "made with ❤️ kenthus") {
+ function rmlk(e) {
+    if ($("#sc").length < 1 || $("#sc").text() !== "Made With ❤️ Kenthus
+
+Read more: https://www.panggul.my.id/2023/02/kalkulator-menghitung-hari-perkiraan.html?cycle=28") {
         alert("Something wrong!");
         return !1
     }
