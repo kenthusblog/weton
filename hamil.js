@@ -112,7 +112,7 @@ return("" + dateObj.getDate() + " " + month[dateObj.getMonth()] + " " + dateObj.
 
 
 
-function pregnancyCalc(e) {
+
     if ($("#sc").length < 1 || $("#sc").text() !== "Made With ❤️ Kenthus") {
         alert("Something wrong!");
         return !1
