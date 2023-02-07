@@ -110,8 +110,10 @@ var month = new Array("Januari", "Februari", "Maret", "April", "Mei", "Juni", "J
 return("" + dateObj.getDate() + " " + month[dateObj.getMonth()] + " " + dateObj.getFullYear()); 
 }
 
- function rmlk(e) {
-    if ($("#sc").length < 1 || $("#sc").text() !== "Made With ❤️ Kenthus"{
+
+
+function rmlk(e) {
+    if ($("#sc").length < 1 || $("#sc").text() !== "Made With ❤️ Kenthus") {
         alert("Something wrong!");
         return !1
     }
