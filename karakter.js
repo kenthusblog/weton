@@ -372,37 +372,3 @@ function rmlk(e) {
         }
     }
 }
-
-function neptuMin(url) {
-    newwindow = window.open(url, 'name');
-    if (window.focus) {
-        newwindow.focus()
-    }
-    return !1
-}
-
-function weton(e) {
-    if (window.event) return window.event.keyCode;
-    else if (e) return e.which;
-    else return null
-}
-
-function kodeScript(e, a, b) {
-    var c, keychar;
-    c = weton(e);
-    if (c == null) return !0;
-    keychar = String.fromCharCode(c);
-    keychar = keychar.toLowerCase();
-    a = a.toLowerCase();
-    if (a.indexOf(keychar) != -1) return !0;
-    if (c == null || c == 0 || c == 8 || c == 9 || c == 27) return !0;
-    if (c == 13) {
-        var i;
-        for (i = 0; i < b.form.elements.length; i++)
-            if (b == b.form.elements[i]) break;
-        i = (i + 1) % b.form.elements.length;
-        b.form.elements[i].focus();
-        return !1
-    };
-    return !1
-};
